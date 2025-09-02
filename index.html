@@ -5,157 +5,234 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>JailbreakChangelogs Assets</title>
     <link rel="icon" href="/favicon.ico">
-    <style>
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 20px;
-            max-width: 800px;
-            margin: 0 auto;
-            background-color: #2E3944;
-            color: #D3D9D4;
-        }
-        header {
-            text-align: center;
-            margin: 20px 0;
-        }
-        h1 {
-            color: #1d7da3;
-            margin-bottom: 10px;
-            font-size: 2em;
-        }
-        h2 {
-            color: #1d7da3;
-            font-size: 1.5em;
-        }
-        .description {
-            color: #748D92;
-            margin-bottom: 20px;
-        }
-        .info-box {
-            background-color: #212A31;
-            border-radius: 8px;
-            padding: 15px;
-            margin: 15px 0;
-        }
-        .sample-images {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-            gap: 15px;
-            margin: 15px 0;
-        }
-        .sample-image {
-            background-color: #212A31;
-            border-radius: 8px;
-            padding: 12px;
-            text-align: center;
-        }
-        .sample-image img {
-            max-width: 100%;
-            height: auto;
-            border-radius: 4px;
-            margin-bottom: 8px;
-        }
-        .sample-image p {
-            color: #748D92;
-            margin: 0;
-            font-size: 0.9em;
-        }
-        code {
-            background-color: #2E3944;
-            color: #D3D9D4;
-            padding: 2px 4px;
-            border-radius: 4px;
-            font-family: monospace;
-            word-break: break-all;
-        }
-        a {
-            color: #124E66;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-
-        @media (max-width: 600px) {
-            body {
-                padding: 15px;
-            }
-            header {
-                margin: 15px 0;
-            }
-            h1 {
-                font-size: 1.75em;
-            }
-            h2 {
-                font-size: 1.25em;
-            }
-            .info-box {
-                padding: 12px;
-            }
-            .sample-images {
-                grid-template-columns: 1fr;
-                gap: 12px;
-            }
-            .sample-image {
-                padding: 10px;
-            }
-            .description {
-                font-size: 0.95em;
-            }
-            p {
-                font-size: 0.95em;
-            }
-        }
-
-        @media (max-width: 400px) {
-            body {
-                padding: 10px;
-            }
-            h1 {
-                font-size: 1.5em;
-            }
-            h2 {
-                font-size: 1.2em;
-            }
-            .info-box {
-                padding: 10px;
-            }
-        }
-    </style>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <header>
-        <h1>JailbreakChangelogs Assets</h1>
-        <p class="description">This repository hosts all static assets for the JailbreakChangelogs project.</p>
+    <header class="header">
+        <div class="header-content">
+            <a href="/" class="header-logo">
+                <img src="https://assets.jailbreakchangelogs.xyz/assets/logos/JBCL_Long_Transparent.webp" alt="Jailbreak Changelogs Logo" class="logo-image">
+            </a>
+            <a href="https://discord.gg/jailbreakchangelogs" target="_blank" rel="noopener noreferrer" class="discord-icon">
+                <svg fill="currentColor" viewBox="0 0 24 24">
+                    <path d="M20.317 4.3698a19.7913 19.7913 0 00-4.8851-1.5152.0741.0741 0 00-.0785.0371c-.211.3753-.4447.8648-.6083 1.2495-1.8447-.2762-3.68-.2762-5.4868 0-.1636-.3933-.4058-.8742-.6177-1.2495a.077.077 0 00-.0785-.037 19.7363 19.7363 0 00-4.8852 1.515.0699.0699 0 00-.0321.0277C.5334 9.0458-.319 13.5799.0992 18.0578a.0824.0824 0 00.0312.0561c2.0528 1.5076 4.0413 2.4228 5.9929 3.0294a.0777.0777 0 00.0842-.0276c.4616-.6304.8731-1.2952 1.226-1.9942a.076.076 0 00-.0416-.1057c-.6528-.2476-1.2743-.5495-1.8722-.8923a.077.077 0 01-.0076-.1277c.1258-.0943.2517-.1923.3718-.2914a.0743.0743 0 01.0786-.0105c3.9278 1.7933 8.18 1.7933 12.0614 0a.0739.0739 0 01.0786.0105c.1202.099.246.1981.3718.2914a.077.077 0 01-.0066.1277 12.2986 12.2986 0 01-1.873.8914.0766.0766 0 00-.0407.1067c.3604.698.7719 1.3628 1.225 1.9932a.076.076 0 00.0842.0286c1.961-.6067 3.9495-1.5219 6.0023-3.0294a.077.077 0 00.0313-.0552c.5004-5.177-.8382-9.6739-3.5485-13.6604a.061.061 0 00-.0312-.0286zM8.02 15.3312c-1.1825 0-2.1569-1.0857-2.1569-2.419 0-1.3332.9555-2.4189 2.157-2.4189 1.2108 0 2.1757 1.0952 2.1568 2.419-.019 1.3332-.9555 2.4189-2.1569 2.4189zm7.9748 0c-1.1825 0-2.1569-1.0857-2.1569-2.419 0-1.3332.9554-2.4189 2.1569-2.4189 1.2108 0 2.1757 1.0952 2.1568 2.419 0 1.3332-.9555 2.4189-2.1568 2.4189Z"/>
+                </svg>
+            </a>
+        </div>
     </header>
 
-    <div class="info-box">
-        <h2>About This Repository</h2>
-        <p>This is a dedicated repository for storing and serving static assets used by the JailbreakChangelogs rewrite project. All assets are served with long-term caching enabled for optimal performance.</p>
-        
-        <h2>Accessing Assets</h2>
-        <p>Assets can be accessed through the following base URL:</p>
-        <code>https://assets.jailbreakchangelogs.xyz/assets/</code>
-        
-        <h2>Cache Policy</h2>
-        <p>All assets are served with a cache policy of 1 year (31,536,000 seconds) to ensure optimal performance and reduced server load.</p>
-    </div>
+    <section class="hero">
+        <div class="hero-background"></div>
+        <div class="container">
+            <div class="hero-content">
+                <h1>JailbreakChangelogs Assets</h1>
+                <p class="subtitle">A comprehensive collection of static assets for the JailbreakChangelogs platform. High-quality images, backgrounds, and more.</p>
+                <a href="https://jailbreakchangelogs.xyz" class="hero-button">Go to Main Website</a>
+            </div>
+        </div>
+    </section>
 
-    <div class="info-box">
-        <h2>Sample Assets</h2>
-        <p>Here are some examples of the assets available in this repository:</p>
-        
-        <div class="sample-images">
-            <div class="sample-image">
-                <img src="/assets/backgrounds/background16.webp" alt="Background Sample">
-                <p>Background Image</p>
+    <div class="container">
+        <section class="features" id="features">
+            <h2>Asset Features</h2>
+            <div class="features-grid">
+                <div class="feature-card">
+                    <div class="feature-header">
+                        <svg class="feature-icon" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M4 3a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V5a2 2 0 00-2-2H4zm12 12H4l4-8 3 6 2-4 3 6z" clip-rule="evenodd" />
+                        </svg>
+                        <h3>Visual Assets</h3>
+                    </div>
+                    <p>High-quality images, backgrounds, and visual elements that enhance the user experience across the platform.</p>
+                </div>
+                
+                <div class="feature-card">
+                    <div class="feature-header">
+                        <svg class="feature-icon" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm1-12a1 1 0 10-2 0v4a1 1 0 00.293.707l2.828 2.829a1 1 0 101.415-1.415L11 9.586V6z" clip-rule="evenodd" />
+                        </svg>
+                        <h3>Performance Optimized</h3>
+                    </div>
+                    <p>All assets are compressed and optimized for fast loading, ensuring smooth performance for users worldwide.</p>
+                </div>
+                
+                <div class="feature-card">
+                    <div class="feature-header">
+                        <svg class="feature-icon" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M3 4a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zm0 4a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zm0 4a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1z" clip-rule="evenodd" />
+                        </svg>
+                        <h3>Organized Library</h3>
+                    </div>
+                    <p>Well-structured asset categories including backgrounds, logos, icons, and various media files for easy access.</p>
+                </div>
             </div>
-            <div class="sample-image">
-                <img src="/assets/images/items/furnitures/Badimo Bros Wall Light.webp" alt="Furniture Item">
-                <p>Furniture Item</p>
+        </section>
+
+        <!-- Asset Categories Section -->
+        <section class="asset-categories" id="categories">
+            <h2>Asset Categories</h2>
+            <div class="categories-grid">
+                <div class="category-card">
+                    <div class="category-header">
+                        <h3>Seasons</h3>
+                    </div>
+                    <p>Different season folders with unique assets and content</p>
+                    <div class="category-path">/assets/images/seasons/</div>
+                    <div class="season-list">
+                        <span class="season-tag">S1</span>
+                        <span class="season-tag">S2</span>
+                        <span class="season-tag">S3</span>
+                        <span class="season-tag">S4</span>
+                        <span class="season-tag">S5</span>
+                        <span class="season-tag">S6</span>
+                        <span class="season-tag">S7</span>
+                        <span class="season-tag">S8</span>
+                        <span class="season-tag">S9</span>
+                        <span class="season-tag">S10</span>
+                        <span class="season-tag">S11</span>
+                        <span class="season-tag">S12</span>
+                        <span class="season-tag">S13</span>
+                        <span class="season-tag">S14</span>
+                        <span class="season-tag">S15</span>
+                        <span class="season-tag">S16</span>
+                        <span class="season-tag">S17</span>
+                        <span class="season-tag">S18</span>
+                        <span class="season-tag">S19</span>
+                        <span class="season-tag">S20</span>
+                        <span class="season-tag">S21</span>
+                        <span class="season-tag">S22</span>
+                        <span class="season-tag">S23</span>
+                        <span class="season-tag">S24</span>
+                        <span class="season-tag">S25</span>
+                        <span class="season-tag">S26</span>
+                        <span class="season-tag">S27</span>
+                        <span class="season-tag">S28</span>
+                    </div>
+                </div>
+
+                <div class="category-card">
+                    <div class="category-header">
+                        <h3>Items</h3>
+                    </div>
+                    <p>Comprehensive item categories with multiple resolutions</p>
+                    <div class="category-path">/assets/images/items/</div>
+                    <div class="item-categories">
+                        <span class="item-tag">Hyperchromes</span>
+                        <span class="item-tag">Furnitures</span>
+                        <span class="item-tag">Weapon Skins</span>
+                        <span class="item-tag">Vehicles</span>
+                        <span class="item-tag">Rims</span>
+                        <span class="item-tag">Tire Styles</span>
+                        <span class="item-tag">Tire Stickers</span>
+                        <span class="item-tag">Body Colors</span>
+                        <span class="item-tag">Spoilers</span>
+                        <span class="item-tag">Textures</span>
+                        <span class="item-tag">Drifts</span>
+                    </div>
+                </div>
+
+                <div class="category-card">
+                    <div class="category-header">
+                        <h3>Crews</h3>
+                    </div>
+                    <p>Crew-related assets including flags and crew images</p>
+                    <div class="category-path">/assets/images/crews/</div>
+                    <div class="crew-features">
+                        <span class="crew-tag">Crew Images</span>
+                        <span class="crew-tag">Flags</span>
+                    </div>
+                </div>
+
+                <div class="category-card">
+                    <div class="category-header">
+                        <h3>Changelogs</h3>
+                    </div>
+                    <p>Changelog assets with embedded media support</p>
+                    <div class="category-path">/assets/images/changelogs/</div>
+                    <div class="changelog-features">
+                        <span class="changelog-tag">Images</span>
+                        <span class="changelog-tag">Videos</span>
+                        <span class="changelog-tag">Audio</span>
+                        <span class="changelog-tag">Embeds</span>
+                    </div>
+                </div>
+
+                <div class="category-card">
+                    <div class="category-header">
+                        <h3>Robberies</h3>
+                    </div>
+                    <p>Robbery-related assets including airdrops</p>
+                    <div class="category-path">/assets/images/robberies/</div>
+                    <div class="robbery-features">
+                        <span class="robbery-tag">Airdrops</span>
+                        <span class="robbery-tag">Robbery Images</span>
+                    </div>
+                </div>
+
+                <div class="category-card">
+                    <div class="category-header">
+                        <h3>Logos</h3>
+                    </div>
+                    <p>Platform and collaboration logos</p>
+                    <div class="category-path">/assets/logos/</div>
+                    <div class="logo-features">
+                        <span class="logo-tag">Roblox</span>
+                        <span class="logo-tag">Discord</span>
+                        <span class="logo-tag">Collaborations</span>
+                    </div>
+                </div>
+
+                <div class="category-card">
+                    <div class="category-header">
+                        <h3>Audio</h3>
+                    </div>
+                    <p>Audio assets including horns and sound effects</p>
+                    <div class="category-path">/assets/audios/</div>
+                    <div class="audio-features">
+                        <span class="audio-tag">Horns</span>
+                        <span class="audio-tag">Sound Effects</span>
+                    </div>
+                </div>
+
+                <div class="category-card">
+                    <div class="category-header">
+                        <h3>Backgrounds</h3>
+                    </div>
+                    <p>High-quality background images and textures</p>
+                    <div class="category-path">/assets/backgrounds/</div>
+                    <div class="background-features">
+                        <span class="background-tag">PNG</span>
+                        <span class="background-tag">WebP</span>
+                        <span class="background-tag">Textures</span>
+                    </div>
+                </div>
             </div>
+        </section>
+
+        <div class="showcase">
+            <h2>Example Assets</h2>
+            <div class="assets-grid">
+                <div class="asset-item">
+                    <img src="https://assets.jailbreakchangelogs.xyz/assets/backgrounds/background16.webp" alt="Background" class="asset-image">
+                </div>
+                <div class="asset-item">
+                    <img src="https://assets.jailbreakchangelogs.xyz/assets/images/changelogs/372.webp" alt="Logo" class="asset-image">
+                </div>
+                <div class="asset-item">
+                    <img src="https://assets.jailbreakchangelogs.xyz/assets/images/items/textures/Camo%20Shark.webp" alt="Placeholder" class="asset-image">
+                </div>
+            </div>
+        </div>
+
+        <div class="url-section">
+            <h3>Access Our Assets From Here</h3>
+            <div class="url-code">https://assets.jailbreakchangelogs.xyz/assets/</div>
+        </div>
+
+        <div class="footer">
+            <p>Assets belong to the <a href="https://github.com/JBChangelogs/JailbreakChangelogs" target="_blank" rel="noopener noreferrer">Jailbreak Changelogs project</a></p>
+            <p class="last-updated">Last updated: September 2, 2025</p>
+            <p class="copyright">© 2025 Jailbreak Changelogs. All rights reserved.</p>
         </div>
     </div>
 </body>
