@@ -81,7 +81,7 @@ body {
     position: absolute;
     inset: 0;
     z-index: 0;
-    background-image: url('/assets/images/background16.webp');
+    background-image: url('/assets/backgrounds/background16.webp');
     background-size: cover;
     background-position: center;
     opacity: 0.4;
