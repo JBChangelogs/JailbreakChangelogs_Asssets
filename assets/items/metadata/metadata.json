@@ -1,25 +1,5 @@
 [
   {
-    "id": 1,
-    "type": "Rim",
-    "name": "4 Billion"
-  },
-  {
-    "id": 2,
-    "type": "Rim",
-    "name": "7 billion"
-  },
-  {
-    "id": 3,
-    "type": "Rim",
-    "name": "Abstracts"
-  },
-  {
-    "id": 4,
-    "type": "Rim",
-    "name": "Arachnid"
-  },
-  {
     "id": 5,
     "type": "Rim",
     "name": "Baller",
@@ -47,11 +27,6 @@
     "level": 4
   },
   {
-    "id": 9,
-    "type": "Rim",
-    "name": "Billion"
-  },
-  {
     "id": 10,
     "type": "Rim",
     "name": "Biohazard",
@@ -59,35 +34,10 @@
     "level": 3
   },
   {
-    "id": 11,
-    "type": "Rim",
-    "name": "Blade"
-  },
-  {
-    "id": 12,
-    "type": "Rim",
-    "name": "Bloxy"
-  },
-  {
     "id": 13,
     "type": "Rim",
     "name": "Blue Eyes",
     "season": 3
-  },
-  {
-    "id": 14,
-    "type": "Rim",
-    "name": "Bonded"
-  },
-  {
-    "id": 15,
-    "type": "Rim",
-    "name": "BoominSpeaker"
-  },
-  {
-    "id": 16,
-    "type": "Rim",
-    "name": "Brickset"
   },
   {
     "id": 17,
@@ -111,26 +61,11 @@
     "level": 7
   },
   {
-    "id": 20,
-    "type": "Rim",
-    "name": "Cobweb"
-  },
-  {
     "id": 21,
     "type": "Rim",
     "name": "Compass",
     "season": 4,
     "level": 8
-  },
-  {
-    "id": 22,
-    "type": "Rim",
-    "name": "Cyclone"
-  },
-  {
-    "id": 23,
-    "type": "Rim",
-    "name": "Daytona"
   },
   {
     "id": 24,
@@ -140,35 +75,10 @@
     "level": 9
   },
   {
-    "id": 25,
-    "type": "Rim",
-    "name": "Dino"
-  },
-  {
     "id": 26,
     "type": "Rim",
     "name": "Distorted",
     "season": 3
-  },
-  {
-    "id": 27,
-    "type": "Rim",
-    "name": "Doubloon"
-  },
-  {
-    "id": 28,
-    "type": "Rim",
-    "name": "Dragon Chaser"
-  },
-  {
-    "id": 29,
-    "type": "Rim",
-    "name": "EXP 1"
-  },
-  {
-    "id": 30,
-    "type": "Rim",
-    "name": "Electrostatic"
   },
   {
     "id": 31,
@@ -184,26 +94,11 @@
     "level": 7
   },
   {
-    "id": 33,
-    "type": "Rim",
-    "name": "Evil Eye"
-  },
-  {
-    "id": 34,
-    "type": "Rim",
-    "name": "Flower"
-  },
-  {
     "id": 35,
     "type": "Rim",
     "name": "Fore",
     "season": 14,
     "level": 7
-  },
-  {
-    "id": 36,
-    "type": "Rim",
-    "name": "Forged"
   },
   {
     "id": 37,
@@ -220,11 +115,6 @@
     "level": 6
   },
   {
-    "id": 39,
-    "type": "Rim",
-    "name": "Halo"
-  },
-  {
     "id": 40,
     "type": "Rim",
     "name": "Handcuff",
@@ -237,16 +127,6 @@
     "name": "Heli Prop",
     "season": 21,
     "level": 2
-  },
-  {
-    "id": 42,
-    "type": "Rim",
-    "name": "Hold E"
-  },
-  {
-    "id": 43,
-    "type": "Rim",
-    "name": "Hypno"
   },
   {
     "id": 44,
@@ -270,16 +150,6 @@
     "level": 5
   },
   {
-    "id": 47,
-    "type": "Rim",
-    "name": "Jet"
-  },
-  {
-    "id": 48,
-    "type": "Rim",
-    "name": "Landmine"
-  },
-  {
     "id": 49,
     "type": "Rim",
     "name": "Laser Cannon",
@@ -287,26 +157,11 @@
     "level": 9
   },
   {
-    "id": 50,
-    "type": "Rim",
-    "name": "Live 2020"
-  },
-  {
     "id": 51,
     "type": "Rim",
     "name": "Marshmallow",
     "season": 19,
     "level": 3
-  },
-  {
-    "id": 52,
-    "type": "Rim",
-    "name": "Money"
-  },
-  {
-    "id": 53,
-    "type": "Rim",
-    "name": "Mystic"
   },
   {
     "id": 54,
@@ -322,26 +177,11 @@
     "level": 6
   },
   {
-    "id": 56,
-    "type": "Rim",
-    "name": "Piggy"
-  },
-  {
     "id": 57,
     "type": "Rim",
     "name": "Planetary",
     "season": 2,
     "level": 3
-  },
-  {
-    "id": 58,
-    "type": "Rim",
-    "name": "Police Chase"
-  },
-  {
-    "id": 59,
-    "type": "Rim",
-    "name": "Propeller"
   },
   {
     "id": 60,
@@ -351,11 +191,6 @@
     "level": 4
   },
   {
-    "id": 61,
-    "type": "Rim",
-    "name": "RFX"
-  },
-  {
     "id": 62,
     "type": "Rim",
     "name": "RTX",
@@ -363,31 +198,11 @@
     "level": 9
   },
   {
-    "id": 63,
-    "type": "Rim",
-    "name": "RX-1"
-  },
-  {
     "id": 64,
     "type": "Rim",
     "name": "Radar",
     "season": 12,
     "level": 9
-  },
-  {
-    "id": 65,
-    "type": "Rim",
-    "name": "Radioactive"
-  },
-  {
-    "id": 66,
-    "type": "Rim",
-    "name": "Rally"
-  },
-  {
-    "id": 67,
-    "type": "Rim",
-    "name": "Reactor"
   },
   {
     "id": 68,
@@ -410,11 +225,6 @@
     "level": 9
   },
   {
-    "id": 71,
-    "type": "Rim",
-    "name": "Revolver"
-  },
-  {
     "id": 72,
     "type": "Rim",
     "name": "Road Warrior",
@@ -429,21 +239,11 @@
     "level": 4
   },
   {
-    "id": 74,
-    "type": "Rim",
-    "name": "Roulette"
-  },
-  {
     "id": 75,
     "type": "Rim",
     "name": "Rubber Ducky",
     "season": 16,
     "level": 7
-  },
-  {
-    "id": 76,
-    "type": "Rim",
-    "name": "SRT"
   },
   {
     "id": 77,
@@ -466,11 +266,6 @@
     "level": 4
   },
   {
-    "id": 80,
-    "type": "Rim",
-    "name": "Ship Wheel"
-  },
-  {
     "id": 81,
     "type": "Rim",
     "name": "Shutter Shade",
@@ -478,31 +273,11 @@
     "level": 3
   },
   {
-    "id": 82,
-    "type": "Rim",
-    "name": "Slashers"
-  },
-  {
     "id": 83,
     "type": "Rim",
     "name": "Snow Face",
     "season": 7,
     "level": 9
-  },
-  {
-    "id": 84,
-    "type": "Rim",
-    "name": "Snowflake"
-  },
-  {
-    "id": 85,
-    "type": "Rim",
-    "name": "Soccer"
-  },
-  {
-    "id": 86,
-    "type": "Rim",
-    "name": "Space-R"
   },
   {
     "id": 87,
@@ -518,31 +293,11 @@
     "season": 1
   },
   {
-    "id": 89,
-    "type": "Rim",
-    "name": "Spike"
-  },
-  {
-    "id": 90,
-    "type": "Rim",
-    "name": "Spinner"
-  },
-  {
-    "id": 91,
-    "type": "Rim",
-    "name": "Spyglass"
-  },
-  {
     "id": 92,
     "type": "Rim",
     "name": "Stance",
     "season": 15,
     "level": 7
-  },
-  {
-    "id": 93,
-    "type": "Rim",
-    "name": "Star"
   },
   {
     "id": 94,
@@ -551,21 +306,11 @@
     "season": 1
   },
   {
-    "id": 95,
-    "type": "Rim",
-    "name": "Subcarbon"
-  },
-  {
     "id": 96,
     "type": "Rim",
     "name": "Teddy Bear",
     "season": 11,
     "level": 2
-  },
-  {
-    "id": 97,
-    "type": "Rim",
-    "name": "Tesseract"
   },
   {
     "id": 98,
@@ -589,11 +334,6 @@
     "level": 7
   },
   {
-    "id": 101,
-    "type": "Rim",
-    "name": "Turbine"
-  },
-  {
     "id": 102,
     "type": "Rim",
     "name": "UK Heritage",
@@ -601,31 +341,11 @@
     "level": 5
   },
   {
-    "id": 103,
-    "type": "Rim",
-    "name": "Unified"
-  },
-  {
     "id": 104,
     "type": "Rim",
     "name": "Unknown Signal",
     "season": 13,
     "level": 6
-  },
-  {
-    "id": 105,
-    "type": "Rim",
-    "name": "VFX"
-  },
-  {
-    "id": 106,
-    "type": "Rim",
-    "name": "Vault Door"
-  },
-  {
-    "id": 107,
-    "type": "Rim",
-    "name": "Vecchio"
   },
   {
     "id": 108,
@@ -655,70 +375,10 @@
     "season": 19
   },
   {
-    "id": 112,
-    "type": "Drift",
-    "name": "Blue Fire"
-  },
-  {
-    "id": 113,
-    "type": "Drift",
-    "name": "Brickset"
-  },
-  {
-    "id": 114,
-    "type": "Drift",
-    "name": "Bubble Wand"
-  },
-  {
-    "id": 115,
-    "type": "Drift",
-    "name": "Cartoon"
-  },
-  {
-    "id": 116,
-    "type": "Drift",
-    "name": "Cosmic"
-  },
-  {
-    "id": 117,
-    "type": "Drift",
-    "name": "Flamethrower"
-  },
-  {
-    "id": 118,
-    "type": "Drift",
-    "name": "Gradient Pixel"
-  },
-  {
-    "id": 119,
-    "type": "Drift",
-    "name": "Lightning"
-  },
-  {
-    "id": 120,
-    "type": "Drift",
-    "name": "Magic Purple"
-  },
-  {
-    "id": 121,
-    "type": "Drift",
-    "name": "Melons"
-  },
-  {
     "id": 122,
     "type": "Drift",
     "name": "OG Fuel",
     "season": 21
-  },
-  {
-    "id": 123,
-    "type": "Drift",
-    "name": "Performance"
-  },
-  {
-    "id": 124,
-    "type": "Drift",
-    "name": "Pixel"
   },
   {
     "id": 125,
@@ -741,40 +401,10 @@
     "level": 2
   },
   {
-    "id": 128,
-    "type": "Vehicle",
-    "name": "ATV"
-  },
-  {
-    "id": 129,
-    "type": "Vehicle",
-    "name": "Agent"
-  },
-  {
-    "id": 130,
-    "type": "Vehicle",
-    "name": "Airtail"
-  },
-  {
-    "id": 131,
-    "type": "Vehicle",
-    "name": "Ambulance"
-  },
-  {
-    "id": 132,
-    "type": "Vehicle",
-    "name": "Aperture"
-  },
-  {
     "id": 133,
     "type": "Vehicle",
     "name": "Arachnid",
     "season": 2
-  },
-  {
-    "id": 134,
-    "type": "Vehicle",
-    "name": "Badger"
   },
   {
     "id": 135,
@@ -812,26 +442,6 @@
     "level": 10
   },
   {
-    "id": 140,
-    "type": "Vehicle",
-    "name": "Boxer"
-  },
-  {
-    "id": 141,
-    "type": "Vehicle",
-    "name": "Brulee"
-  },
-  {
-    "id": 143,
-    "type": "Vehicle",
-    "name": "Camper"
-  },
-  {
-    "id": 144,
-    "type": "Vehicle",
-    "name": "Carbonara"
-  },
-  {
     "id": 146,
     "type": "Vehicle",
     "name": "Celsior",
@@ -839,81 +449,11 @@
     "level": 10
   },
   {
-    "id": 147,
-    "type": "Vehicle",
-    "name": "Challenger"
-  },
-  {
-    "id": 148,
-    "type": "Vehicle",
-    "name": "Classic"
-  },
-  {
-    "id": 149,
-    "type": "Vehicle",
-    "name": "Concept"
-  },
-  {
     "id": 150,
     "type": "Vehicle",
     "name": "Crew Capsule",
     "season": 2,
     "level": 10
-  },
-  {
-    "id": 151,
-    "type": "Vehicle",
-    "name": "Crown"
-  },
-  {
-    "id": 153,
-    "type": "Vehicle",
-    "name": "CyberTruck"
-  },
-  {
-    "id": 154,
-    "type": "Vehicle",
-    "name": "Deja"
-  },
-  {
-    "id": 155,
-    "type": "Vehicle",
-    "name": "Delorean"
-  },
-  {
-    "id": 156,
-    "type": "Vehicle",
-    "name": "Desert Crawler"
-  },
-  {
-    "id": 157,
-    "type": "Vehicle",
-    "name": "Dirt Bike"
-  },
-  {
-    "id": 158,
-    "type": "Vehicle",
-    "name": "Dune Buggy"
-  },
-  {
-    "id": 159,
-    "type": "Vehicle",
-    "name": "Eclaire"
-  },
-  {
-    "id": 160,
-    "type": "Vehicle",
-    "name": "Falcon S"
-  },
-  {
-    "id": 161,
-    "type": "Vehicle",
-    "name": "Fiasco"
-  },
-  {
-    "id": 162,
-    "type": "Vehicle",
-    "name": "Fire Truck"
   },
   {
     "id": 163,
@@ -930,21 +470,11 @@
     "level": 10
   },
   {
-    "id": 165,
-    "type": "Vehicle",
-    "name": "Hammer Head"
-  },
-  {
     "id": 166,
     "type": "Vehicle",
     "name": "Icebreaker",
     "season": 7,
     "level": 10
-  },
-  {
-    "id": 167,
-    "type": "Vehicle",
-    "name": "Interrogator"
   },
   {
     "id": 168,
@@ -958,21 +488,6 @@
     "name": "Jackrabbit",
     "season": 9,
     "level": 8
-  },
-  {
-    "id": 170,
-    "type": "Vehicle",
-    "name": "Javelin"
-  },
-  {
-    "id": 172,
-    "type": "Vehicle",
-    "name": "La Matador"
-  },
-  {
-    "id": 173,
-    "type": "Vehicle",
-    "name": "Laviolette"
   },
   {
     "id": 175,
@@ -989,51 +504,11 @@
     "level": 10
   },
   {
-    "id": 178,
-    "type": "Vehicle",
-    "name": "Manta"
-  },
-  {
     "id": 179,
     "type": "Vehicle",
     "name": "Maverick",
     "season": 22,
     "level": 10
-  },
-  {
-    "id": 180,
-    "type": "Vehicle",
-    "name": "Megalodon"
-  },
-  {
-    "id": 181,
-    "type": "Vehicle",
-    "name": "Mighty"
-  },
-  {
-    "id": 182,
-    "type": "Vehicle",
-    "name": "Model 3"
-  },
-  {
-    "id": 183,
-    "type": "Vehicle",
-    "name": "Molten M12"
-  },
-  {
-    "id": 184,
-    "type": "Vehicle",
-    "name": "Monster"
-  },
-  {
-    "id": 186,
-    "type": "Vehicle",
-    "name": "Nascar 75th"
-  },
-  {
-    "id": 188,
-    "type": "Vehicle",
-    "name": "OG La Matador"
   },
   {
     "id": 189,
@@ -1043,21 +518,6 @@
     "level": 10
   },
   {
-    "id": 190,
-    "type": "Vehicle",
-    "name": "Parisian"
-  },
-  {
-    "id": 191,
-    "type": "Vehicle",
-    "name": "Patrol"
-  },
-  {
-    "id": 192,
-    "type": "Vehicle",
-    "name": "Pickup"
-  },
-  {
     "id": 193,
     "type": "Vehicle",
     "name": "Poseidon",
@@ -1065,21 +525,11 @@
     "level": 10
   },
   {
-    "id": 194,
-    "type": "Vehicle",
-    "name": "Posh"
-  },
-  {
     "id": 195,
     "type": "Vehicle",
     "name": "Power 1",
     "season": 17,
     "level": 10
-  },
-  {
-    "id": 196,
-    "type": "Vehicle",
-    "name": "Prison Bus"
   },
   {
     "id": 197,
@@ -1102,81 +552,11 @@
     "level": 10
   },
   {
-    "id": 200,
-    "type": "Vehicle",
-    "name": "Ray"
-  },
-  {
-    "id": 201,
-    "type": "Vehicle",
-    "name": "Ray 9"
-  },
-  {
-    "id": 202,
-    "type": "Vehicle",
-    "name": "Roadster"
-  },
-  {
-    "id": 203,
-    "type": "Vehicle",
-    "name": "SUV"
-  },
-  {
-    "id": 205,
-    "type": "Vehicle",
-    "name": "Scorpion"
-  },
-  {
-    "id": 206,
-    "type": "Vehicle",
-    "name": "Semi Truck"
-  },
-  {
-    "id": 207,
-    "type": "Vehicle",
-    "name": "Sentinel"
-  },
-  {
-    "id": 208,
-    "type": "Vehicle",
-    "name": "Shell Classic"
-  },
-  {
-    "id": 209,
-    "type": "Vehicle",
-    "name": "Shell Mark 5"
-  },
-  {
     "id": 210,
     "type": "Vehicle",
     "name": "Shogun",
     "season": 15,
     "level": 10
-  },
-  {
-    "id": 211,
-    "type": "Vehicle",
-    "name": "Sloop"
-  },
-  {
-    "id": 212,
-    "type": "Vehicle",
-    "name": "Snake"
-  },
-  {
-    "id": 213,
-    "type": "Vehicle",
-    "name": "Speed Yacht"
-  },
-  {
-    "id": 214,
-    "type": "Vehicle",
-    "name": "Stallion"
-  },
-  {
-    "id": 215,
-    "type": "Vehicle",
-    "name": "Steed"
   },
   {
     "id": 216,
@@ -1186,21 +566,6 @@
     "level": 10
   },
   {
-    "id": 217,
-    "type": "Vehicle",
-    "name": "Successor"
-  },
-  {
-    "id": 218,
-    "type": "Vehicle",
-    "name": "Surus"
-  },
-  {
-    "id": 219,
-    "type": "Vehicle",
-    "name": "Tank"
-  },
-  {
     "id": 220,
     "type": "Vehicle",
     "name": "Tiny Toy",
@@ -1208,35 +573,10 @@
     "level": 8
   },
   {
-    "id": 221,
-    "type": "Vehicle",
-    "name": "Torero"
-  },
-  {
     "id": 222,
     "type": "Vehicle",
     "name": "Torpedo",
     "season": 2
-  },
-  {
-    "id": 223,
-    "type": "Vehicle",
-    "name": "Tow Truck"
-  },
-  {
-    "id": 224,
-    "type": "Vehicle",
-    "name": "Trailblazer"
-  },
-  {
-    "id": 225,
-    "type": "Vehicle",
-    "name": "Venom"
-  },
-  {
-    "id": 226,
-    "type": "Vehicle",
-    "name": "Volt"
   },
   {
     "id": 227,
@@ -1253,36 +593,6 @@
     "level": 10
   },
   {
-    "id": 229,
-    "type": "Vehicle",
-    "name": "XRK"
-  },
-  {
-    "id": 230,
-    "type": "Tire Sticker",
-    "name": "3 Billion"
-  },
-  {
-    "id": 231,
-    "type": "Tire Sticker",
-    "name": "80s Style"
-  },
-  {
-    "id": 232,
-    "type": "Tire Sticker",
-    "name": "Badonuts"
-  },
-  {
-    "id": 233,
-    "type": "Tire Sticker",
-    "name": "Blue 50"
-  },
-  {
-    "id": 234,
-    "type": "Tire Sticker",
-    "name": "Blue S3"
-  },
-  {
     "id": 235,
     "type": "Tire Sticker",
     "name": "Buoy",
@@ -1297,56 +607,11 @@
     "level": 2
   },
   {
-    "id": 237,
-    "type": "Tire Sticker",
-    "name": "Construction"
-  },
-  {
-    "id": 238,
-    "type": "Tire Sticker",
-    "name": "Crash Nation"
-  },
-  {
-    "id": 239,
-    "type": "Tire Sticker",
-    "name": "Criminal"
-  },
-  {
-    "id": 240,
-    "type": "Tire Sticker",
-    "name": "DatBrian"
-  },
-  {
-    "id": 241,
-    "type": "Tire Sticker",
-    "name": "DenisDaily"
-  },
-  {
     "id": 242,
     "type": "Tire Sticker",
     "name": "Flags Of Europe",
     "season": 17,
     "level": 2
-  },
-  {
-    "id": 243,
-    "type": "Tire Sticker",
-    "name": "Flat Black"
-  },
-  {
-    "id": 244,
-    "type": "Tire Sticker",
-    "name": "HelloItsVG"
-  },
-  {
-    "id": 245,
-    "type": "Tire Sticker",
-    "name": "JBMS"
-  },
-  {
-    "id": 246,
-    "type": "Tire Sticker",
-    "name": "Jailbreak"
   },
   {
     "id": 247,
@@ -1356,100 +621,10 @@
     "level": 3
   },
   {
-    "id": 248,
-    "type": "Tire Sticker",
-    "name": "Japanese"
-  },
-  {
     "id": 249,
     "type": "Tire Sticker",
     "name": "Kanagawa",
     "season": 15
-  },
-  {
-    "id": 250,
-    "type": "Tire Sticker",
-    "name": "KraoESP"
-  },
-  {
-    "id": 251,
-    "type": "Tire Sticker",
-    "name": "KreekCraft"
-  },
-  {
-    "id": 252,
-    "type": "Tire Sticker",
-    "name": "Leap Year"
-  },
-  {
-    "id": 253,
-    "type": "Tire Sticker",
-    "name": "Lightning"
-  },
-  {
-    "id": 254,
-    "type": "Tire Sticker",
-    "name": "Line"
-  },
-  {
-    "id": 255,
-    "type": "Tire Sticker",
-    "name": "MyUsernamesThis"
-  },
-  {
-    "id": 256,
-    "type": "Tire Sticker",
-    "name": "Nascar"
-  },
-  {
-    "id": 257,
-    "type": "Tire Sticker",
-    "name": "Nascar 75th"
-  },
-  {
-    "id": 259,
-    "type": "Tire Sticker",
-    "name": "NoobFreak"
-  },
-  {
-    "id": 260,
-    "type": "Tire Sticker",
-    "name": "Parisian"
-  },
-  {
-    "id": 262,
-    "type": "Tire Sticker",
-    "name": "Phindr"
-  },
-  {
-    "id": 263,
-    "type": "Tire Sticker",
-    "name": "Police"
-  },
-  {
-    "id": 264,
-    "type": "Tire Sticker",
-    "name": "Radar"
-  },
-  {
-    "id": 265,
-    "type": "Tire Sticker",
-    "name": "Red 50"
-  },
-  {
-    "id": 266,
-    "type": "Tire Sticker",
-    "name": "Red S3"
-  },
-  {
-    "id": 267,
-    "type": "Tire Sticker",
-    "name": "Speed"
-  },
-  {
-    "id": 268,
-    "type": "Tire Sticker",
-    "name": "Thin"
   },
   {
     "id": 269,
@@ -1459,16 +634,6 @@
     "level": 2
   },
   {
-    "id": 270,
-    "type": "Tire Sticker",
-    "name": "Tracer"
-  },
-  {
-    "id": 271,
-    "type": "Tire Sticker",
-    "name": "USA"
-  },
-  {
     "id": 272,
     "type": "Texture",
     "name": "Aquatic",
@@ -1476,26 +641,11 @@
     "level": 6
   },
   {
-    "id": 273,
-    "type": "Texture",
-    "name": "Armor"
-  },
-  {
     "id": 274,
     "type": "Texture",
     "name": "Aurora",
     "season": 19,
     "level": 8
-  },
-  {
-    "id": 275,
-    "type": "Texture",
-    "name": "Bacon"
-  },
-  {
-    "id": 276,
-    "type": "Texture",
-    "name": "Ball"
   },
   {
     "id": 277,
@@ -1519,41 +669,11 @@
     "level": 8
   },
   {
-    "id": 280,
-    "type": "Texture",
-    "name": "Blue Pixel"
-  },
-  {
-    "id": 281,
-    "type": "Texture",
-    "name": "Camo"
-  },
-  {
     "id": 282,
     "type": "Texture",
     "name": "Camo Radar",
     "season": 12,
     "level": 8
-  },
-  {
-    "id": 283,
-    "type": "Texture",
-    "name": "Camo Shark"
-  },
-  {
-    "id": 284,
-    "type": "Texture",
-    "name": "Candy Cane"
-  },
-  {
-    "id": 285,
-    "type": "Texture",
-    "name": "Carbon Fire"
-  },
-  {
-    "id": 286,
-    "type": "Texture",
-    "name": "Checker"
   },
   {
     "id": 287,
@@ -1563,51 +683,11 @@
     "level": 8
   },
   {
-    "id": 288,
-    "type": "Texture",
-    "name": "Classic Var 1"
-  },
-  {
-    "id": 289,
-    "type": "Texture",
-    "name": "Classic Var 2"
-  },
-  {
-    "id": 290,
-    "type": "Texture",
-    "name": "Classic Var 3"
-  },
-  {
-    "id": 291,
-    "type": "Texture",
-    "name": "Comic Convict"
-  },
-  {
-    "id": 292,
-    "type": "Texture",
-    "name": "Cow"
-  },
-  {
     "id": 294,
     "type": "Texture",
     "name": "Crimson Racer",
     "season": 6,
     "level": 8
-  },
-  {
-    "id": 295,
-    "type": "Texture",
-    "name": "Deep Purple Flame"
-  },
-  {
-    "id": 296,
-    "type": "Texture",
-    "name": "Desert Camo"
-  },
-  {
-    "id": 297,
-    "type": "Texture",
-    "name": "Diamond"
   },
   {
     "id": 298,
@@ -1617,16 +697,6 @@
     "level": 4
   },
   {
-    "id": 299,
-    "type": "Texture",
-    "name": "Donut"
-  },
-  {
-    "id": 300,
-    "type": "Texture",
-    "name": "Dragon Scales"
-  },
-  {
     "id": 301,
     "type": "Texture",
     "name": "Drip",
@@ -1634,26 +704,11 @@
     "level": 8
   },
   {
-    "id": 302,
-    "type": "Texture",
-    "name": "Earth"
-  },
-  {
     "id": 303,
     "type": "Texture",
     "name": "Earthquake",
     "season": 4,
     "level": 5
-  },
-  {
-    "id": 304,
-    "type": "Texture",
-    "name": "Electronic"
-  },
-  {
-    "id": 305,
-    "type": "Texture",
-    "name": "Field"
   },
   {
     "id": 306,
@@ -1669,16 +724,6 @@
     "season": 6
   },
   {
-    "id": 308,
-    "type": "Texture",
-    "name": "Frit"
-  },
-  {
-    "id": 309,
-    "type": "Texture",
-    "name": "Frost"
-  },
-  {
     "id": 310,
     "type": "Texture",
     "name": "Galactic Carbon",
@@ -1686,40 +731,10 @@
     "level": 8
   },
   {
-    "id": 311,
-    "type": "Texture",
-    "name": "Galaxy"
-  },
-  {
-    "id": 312,
-    "type": "Texture",
-    "name": "Galaxy Wave"
-  },
-  {
-    "id": 313,
-    "type": "Texture",
-    "name": "Glowing Yellow"
-  },
-  {
     "id": 314,
     "type": "Texture",
     "name": "Gulf",
     "season": 6
-  },
-  {
-    "id": 315,
-    "type": "Texture",
-    "name": "Hotdog"
-  },
-  {
-    "id": 316,
-    "type": "Texture",
-    "name": "Ice"
-  },
-  {
-    "id": 317,
-    "type": "Texture",
-    "name": "Ladybug"
   },
   {
     "id": 318,
@@ -1729,36 +744,11 @@
     "level": 8
   },
   {
-    "id": 319,
-    "type": "Texture",
-    "name": "LeEclair"
-  },
-  {
-    "id": 320,
-    "type": "Texture",
-    "name": "Lightning"
-  },
-  {
-    "id": 321,
-    "type": "Texture",
-    "name": "Lines"
-  },
-  {
     "id": 322,
     "type": "Texture",
     "name": "Manga",
     "season": 15,
     "level": 8
-  },
-  {
-    "id": 323,
-    "type": "Texture",
-    "name": "Money"
-  },
-  {
-    "id": 324,
-    "type": "Texture",
-    "name": "Nuclear Waste"
   },
   {
     "id": 325,
@@ -1775,46 +765,6 @@
     "level": 10
   },
   {
-    "id": 327,
-    "type": "Texture",
-    "name": "Orange Pixel"
-  },
-  {
-    "id": 328,
-    "type": "Texture",
-    "name": "Paint"
-  },
-  {
-    "id": 329,
-    "type": "Texture",
-    "name": "Patchy Jeans"
-  },
-  {
-    "id": 330,
-    "type": "Texture",
-    "name": "Peach"
-  },
-  {
-    "id": 331,
-    "type": "Texture",
-    "name": "Pixel"
-  },
-  {
-    "id": 332,
-    "type": "Texture",
-    "name": "Police"
-  },
-  {
-    "id": 333,
-    "type": "Texture",
-    "name": "Racer"
-  },
-  {
-    "id": 334,
-    "type": "Texture",
-    "name": "Rainbow"
-  },
-  {
     "id": 335,
     "type": "Texture",
     "name": "Retrowave",
@@ -1829,26 +779,11 @@
     "level": 8
   },
   {
-    "id": 337,
-    "type": "Texture",
-    "name": "Road Warrior"
-  },
-  {
-    "id": 338,
-    "type": "Texture",
-    "name": "Scorch"
-  },
-  {
     "id": 339,
     "type": "Texture",
     "name": "Snowstorm",
     "season": 1,
     "level": 5
-  },
-  {
-    "id": 340,
-    "type": "Texture",
-    "name": "Speed"
   },
   {
     "id": 341,
@@ -1864,51 +799,11 @@
     "season": 10
   },
   {
-    "id": 343,
-    "type": "Texture",
-    "name": "Swirl"
-  },
-  {
-    "id": 344,
-    "type": "Texture",
-    "name": "Taxi"
-  },
-  {
-    "id": 345,
-    "type": "Texture",
-    "name": "Tiger"
-  },
-  {
     "id": 346,
     "type": "Texture",
     "name": "Touchdown",
     "season": 14,
     "level": 4
-  },
-  {
-    "id": 347,
-    "type": "Texture",
-    "name": "Two Sided"
-  },
-  {
-    "id": 348,
-    "type": "Texture",
-    "name": "Volcano"
-  },
-  {
-    "id": 349,
-    "type": "Texture",
-    "name": "Volt"
-  },
-  {
-    "id": 350,
-    "type": "Texture",
-    "name": "Watermelon"
-  },
-  {
-    "id": 351,
-    "type": "Texture",
-    "name": "Wavy"
   },
   {
     "id": 352,
@@ -1924,11 +819,6 @@
     "season": 7
   },
   {
-    "id": 354,
-    "type": "Texture",
-    "name": "WireFrame"
-  },
-  {
     "id": 355,
     "type": "Texture",
     "name": "Wooden Toy",
@@ -1936,45 +826,10 @@
     "level": 6
   },
   {
-    "id": 356,
-    "type": "Texture",
-    "name": "Zebra"
-  },
-  {
-    "id": 357,
-    "type": "Rim",
-    "name": "Live 2024"
-  },
-  {
-    "id": 358,
-    "type": "Spoiler",
-    "name": "2 Billion"
-  },
-  {
-    "id": 359,
-    "type": "Spoiler",
-    "name": "3 Billion"
-  },
-  {
-    "id": 360,
-    "type": "Spoiler",
-    "name": "5B Flags"
-  },
-  {
     "id": 361,
     "type": "Spoiler",
     "name": "5 Star",
     "season": 1
-  },
-  {
-    "id": 362,
-    "type": "Spoiler",
-    "name": "6 Billion"
-  },
-  {
-    "id": 363,
-    "type": "Spoiler",
-    "name": "Aerial Support"
   },
   {
     "id": 364,
@@ -1984,16 +839,6 @@
     "level": 7
   },
   {
-    "id": 365,
-    "type": "Spoiler",
-    "name": "Arch"
-  },
-  {
-    "id": 366,
-    "type": "Spoiler",
-    "name": "BatWings"
-  },
-  {
     "id": 367,
     "type": "Spoiler",
     "name": "Bicycle Rack",
@@ -2001,30 +846,10 @@
     "level": 9
   },
   {
-    "id": 368,
-    "type": "Spoiler",
-    "name": "Block Wing"
-  },
-  {
     "id": 369,
     "type": "Spoiler",
     "name": "Blue Chute",
     "season": 4
-  },
-  {
-    "id": 370,
-    "type": "Spoiler",
-    "name": "Boomerang"
-  },
-  {
-    "id": 371,
-    "type": "Spoiler",
-    "name": "Box O Cash"
-  },
-  {
-    "id": 372,
-    "type": "Spoiler",
-    "name": "Brickset"
   },
   {
     "id": 373,
@@ -2034,31 +859,11 @@
     "level": 5
   },
   {
-    "id": 374,
-    "type": "Spoiler",
-    "name": "Campout"
-  },
-  {
-    "id": 375,
-    "type": "Spoiler",
-    "name": "Carbonara"
-  },
-  {
     "id": 376,
     "type": "Spoiler",
     "name": "Cash Spitter",
     "season": 10,
     "level": 7
-  },
-  {
-    "id": 377,
-    "type": "Spoiler",
-    "name": "Catch Me"
-  },
-  {
-    "id": 378,
-    "type": "Spoiler",
-    "name": "Classic"
   },
   {
     "id": 379,
@@ -2096,21 +901,6 @@
     "level": 6
   },
   {
-    "id": 384,
-    "type": "Spoiler",
-    "name": "Dragon Breath"
-  },
-  {
-    "id": 385,
-    "type": "Spoiler",
-    "name": "Dragster"
-  },
-  {
-    "id": 386,
-    "type": "Spoiler",
-    "name": "Dual Flags"
-  },
-  {
     "id": 387,
     "type": "Spoiler",
     "name": "Dual Rockets",
@@ -2130,26 +920,11 @@
     "level": 9
   },
   {
-    "id": 390,
-    "type": "Spoiler",
-    "name": "Eternal Flame"
-  },
-  {
-    "id": 391,
-    "type": "Spoiler",
-    "name": "Flame Spitter"
-  },
-  {
     "id": 392,
     "type": "Spoiler",
     "name": "Flamethrower",
     "season": 13,
     "level": 5
-  },
-  {
-    "id": 393,
-    "type": "Spoiler",
-    "name": "GTR"
   },
   {
     "id": 394,
@@ -2173,21 +948,11 @@
     "level": 7
   },
   {
-    "id": 397,
-    "type": "Spoiler",
-    "name": "Harpoon"
-  },
-  {
     "id": 398,
     "type": "Spoiler",
     "name": "JDM",
     "season": 6,
     "level": 6
-  },
-  {
-    "id": 399,
-    "type": "Spoiler",
-    "name": "Jailbreak Hills"
   },
   {
     "id": 400,
@@ -2204,30 +969,10 @@
     "level": 9
   },
   {
-    "id": 402,
-    "type": "Spoiler",
-    "name": "King"
-  },
-  {
-    "id": 403,
-    "type": "Spoiler",
-    "name": "Laser Wire"
-  },
-  {
     "id": 404,
     "type": "Spoiler",
     "name": "Leaning Wing Of Pisa",
     "season": 17
-  },
-  {
-    "id": 405,
-    "type": "Spoiler",
-    "name": "Live Glider"
-  },
-  {
-    "id": 406,
-    "type": "Spoiler",
-    "name": "Mark 5"
   },
   {
     "id": 407,
@@ -2237,21 +982,11 @@
     "level": 5
   },
   {
-    "id": 408,
-    "type": "Spoiler",
-    "name": "Meteor Magnet"
-  },
-  {
     "id": 409,
     "type": "Spoiler",
     "name": "Native",
     "season": 18,
     "level": 2
-  },
-  {
-    "id": 410,
-    "type": "Spoiler",
-    "name": "Nitro Tank"
   },
   {
     "id": 411,
@@ -2274,16 +1009,6 @@
     "level": 4
   },
   {
-    "id": 414,
-    "type": "Spoiler",
-    "name": "Park Bench"
-  },
-  {
-    "id": 415,
-    "type": "Spoiler",
-    "name": "Police That Way"
-  },
-  {
     "id": 416,
     "type": "Spoiler",
     "name": "RC Antenna",
@@ -2291,25 +1016,10 @@
     "level": 4
   },
   {
-    "id": 417,
-    "type": "Spoiler",
-    "name": "Racer"
-  },
-  {
-    "id": 418,
-    "type": "Spoiler",
-    "name": "Racing Wing"
-  },
-  {
     "id": 419,
     "type": "Spoiler",
     "name": "Robo Wing",
     "season": 4
-  },
-  {
-    "id": 420,
-    "type": "Spoiler",
-    "name": "Rocket"
   },
   {
     "id": 421,
@@ -2331,16 +1041,6 @@
     "name": "Shell Speaker",
     "season": 16,
     "level": 9
-  },
-  {
-    "id": 424,
-    "type": "Spoiler",
-    "name": "Shogun"
-  },
-  {
-    "id": 425,
-    "type": "Spoiler",
-    "name": "Skater Wing"
   },
   {
     "id": 426,
@@ -2377,16 +1077,6 @@
     "level": 5
   },
   {
-    "id": 431,
-    "type": "Spoiler",
-    "name": "Spare"
-  },
-  {
-    "id": 432,
-    "type": "Spoiler",
-    "name": "Spares"
-  },
-  {
     "id": 433,
     "type": "Spoiler",
     "name": "Star Wing",
@@ -2401,36 +1091,11 @@
     "level": 3
   },
   {
-    "id": 435,
-    "type": "Spoiler",
-    "name": "T Rex Bone"
-  },
-  {
-    "id": 436,
-    "type": "Spoiler",
-    "name": "TailFin"
-  },
-  {
-    "id": 437,
-    "type": "Spoiler",
-    "name": "Tall Arch"
-  },
-  {
     "id": 438,
     "type": "Spoiler",
     "name": "Tank Wing",
     "season": 12,
     "level": 2
-  },
-  {
-    "id": 439,
-    "type": "Spoiler",
-    "name": "Terminator"
-  },
-  {
-    "id": 440,
-    "type": "Spoiler",
-    "name": "Tesla"
   },
   {
     "id": 441,
@@ -2447,11 +1112,6 @@
     "level": 9
   },
   {
-    "id": 443,
-    "type": "Spoiler",
-    "name": "Tiny Wing"
-  },
-  {
     "id": 444,
     "type": "Spoiler",
     "name": "Torero",
@@ -2464,11 +1124,6 @@
     "name": "Torii Gate",
     "season": 15,
     "level": 4
-  },
-  {
-    "id": 446,
-    "type": "Spoiler",
-    "name": "Trade Sail"
   },
   {
     "id": 447,
@@ -2489,16 +1144,6 @@
     "name": "Trophy Wings",
     "season": 10,
     "level": 2
-  },
-  {
-    "id": 450,
-    "type": "Spoiler",
-    "name": "Trouble Wing"
-  },
-  {
-    "id": 451,
-    "type": "Spoiler",
-    "name": "Tsutek"
   },
   {
     "id": 452,
@@ -2562,66 +1207,6 @@
     "level": 3
   },
   {
-    "id": 461,
-    "type": "Spoiler",
-    "name": "Wingo"
-  },
-  {
-    "id": 462,
-    "type": "Spoiler",
-    "name": "XRK Aero"
-  },
-  {
-    "id": 463,
-    "type": "Vehicle",
-    "name": "Black Hawk"
-  },
-  {
-    "id": 464,
-    "type": "Vehicle",
-    "name": "UFO"
-  },
-  {
-    "id": 465,
-    "type": "Vehicle",
-    "name": "Stunt"
-  },
-  {
-    "id": 466,
-    "type": "Vehicle",
-    "name": "Little Bird"
-  },
-  {
-    "id": 468,
-    "type": "Vehicle",
-    "name": "Jet"
-  },
-  {
-    "id": 469,
-    "type": "Vehicle",
-    "name": "Escape Bot"
-  },
-  {
-    "id": 470,
-    "type": "Vehicle",
-    "name": "Drone"
-  },
-  {
-    "id": 471,
-    "type": "Vehicle",
-    "name": "Jet Ski"
-  },
-  {
-    "id": 472,
-    "type": "Vehicle",
-    "name": "Tanker"
-  },
-  {
-    "id": 473,
-    "type": "Vehicle",
-    "name": "Iceborn"
-  },
-  {
     "id": 474,
     "type": "Vehicle",
     "name": "Stormrider",
@@ -2671,231 +1256,11 @@
     "level": 3
   },
   {
-    "id": 481,
-    "type": "Body Color",
-    "name": "Black"
-  },
-  {
-    "id": 482,
-    "type": "Body Color",
-    "name": "Blue"
-  },
-  {
-    "id": 483,
-    "type": "Body Color",
-    "name": "Cyan"
-  },
-  {
-    "id": 484,
-    "type": "Body Color",
-    "name": "Darkest Blue"
-  },
-  {
-    "id": 485,
-    "type": "Body Color",
-    "name": "Darkest Brown"
-  },
-  {
-    "id": 486,
-    "type": "Body Color",
-    "name": "Darkest Green"
-  },
-  {
-    "id": 487,
-    "type": "Body Color",
-    "name": "Darkest Marine"
-  },
-  {
     "id": 488,
     "type": "Body Color",
     "name": "Darkest Purple",
     "season": 13,
     "level": 2
-  },
-  {
-    "id": 489,
-    "type": "Body Color",
-    "name": "Darkest Red"
-  },
-  {
-    "id": 490,
-    "type": "Body Color",
-    "name": "Deep Purple"
-  },
-  {
-    "id": 491,
-    "type": "Body Color",
-    "name": "Forest Green"
-  },
-  {
-    "id": 492,
-    "type": "Body Color",
-    "name": "Gold"
-  },
-  {
-    "id": 493,
-    "type": "Body Color",
-    "name": "Green"
-  },
-  {
-    "id": 494,
-    "type": "Body Color",
-    "name": "Grey"
-  },
-  {
-    "id": 495,
-    "type": "Body Color",
-    "name": "Hot Orange"
-  },
-  {
-    "id": 496,
-    "type": "Body Color",
-    "name": "Hottest Pink"
-  },
-  {
-    "id": 497,
-    "type": "Body Color",
-    "name": "Maroon"
-  },
-  {
-    "id": 498,
-    "type": "Body Color",
-    "name": "Matte"
-  },
-  {
-    "id": 499,
-    "type": "Body Color",
-    "name": "Military Green"
-  },
-  {
-    "id": 500,
-    "type": "Body Color",
-    "name": "Navy Blue"
-  },
-  {
-    "id": 501,
-    "type": "Body Color",
-    "name": "Orange"
-  },
-  {
-    "id": 502,
-    "type": "Body Color",
-    "name": "Pastel Blue"
-  },
-  {
-    "id": 503,
-    "type": "Body Color",
-    "name": "Pastel Brown"
-  },
-  {
-    "id": 504,
-    "type": "Body Color",
-    "name": "Pastel Gray"
-  },
-  {
-    "id": 505,
-    "type": "Body Color",
-    "name": "Pastel Green"
-  },
-  {
-    "id": 506,
-    "type": "Body Color",
-    "name": "Pastel Orange"
-  },
-  {
-    "id": 507,
-    "type": "Body Color",
-    "name": "Pastel Pink"
-  },
-  {
-    "id": 508,
-    "type": "Body Color",
-    "name": "Pastel Violet"
-  },
-  {
-    "id": 509,
-    "type": "Body Color",
-    "name": "Pastel Yellow"
-  },
-  {
-    "id": 510,
-    "type": "Body Color",
-    "name": "Pink"
-  },
-  {
-    "id": 511,
-    "type": "Body Color",
-    "name": "Purple"
-  },
-  {
-    "id": 512,
-    "type": "Body Color",
-    "name": "Radiant Green"
-  },
-  {
-    "id": 513,
-    "type": "Body Color",
-    "name": "Radiant Ice"
-  },
-  {
-    "id": 514,
-    "type": "Body Color",
-    "name": "Radiant Orange"
-  },
-  {
-    "id": 515,
-    "type": "Body Color",
-    "name": "Radiant Pink"
-  },
-  {
-    "id": 516,
-    "type": "Body Color",
-    "name": "Radiant Polar Blue"
-  },
-  {
-    "id": 517,
-    "type": "Body Color",
-    "name": "Radiant Purple"
-  },
-  {
-    "id": 518,
-    "type": "Body Color",
-    "name": "Radiant Red"
-  },
-  {
-    "id": 519,
-    "type": "Body Color",
-    "name": "Radiant Sun"
-  },
-  {
-    "id": 520,
-    "type": "Body Color",
-    "name": "Radiant Yellow"
-  },
-  {
-    "id": 521,
-    "type": "Body Color",
-    "name": "Real Green"
-  },
-  {
-    "id": 522,
-    "type": "Body Color",
-    "name": "Red"
-  },
-  {
-    "id": 523,
-    "type": "Body Color",
-    "name": "Sakura Pink"
-  },
-  {
-    "id": 524,
-    "type": "Body Color",
-    "name": "Sand"
-  },
-  {
-    "id": 525,
-    "type": "Body Color",
-    "name": "Super Lime"
   },
   {
     "id": 526,
@@ -2905,41 +1270,11 @@
     "level": 5
   },
   {
-    "id": 527,
-    "type": "Body Color",
-    "name": "White"
-  },
-  {
-    "id": 528,
-    "type": "Body Color",
-    "name": "Yellow"
-  },
-  {
     "id": 529,
     "type": "Tire Style",
     "name": "America",
     "season": 22,
     "level": 7
-  },
-  {
-    "id": 530,
-    "type": "Tire Style",
-    "name": "Brickset"
-  },
-  {
-    "id": 531,
-    "type": "Tire Style",
-    "name": "Cheese Burger"
-  },
-  {
-    "id": 532,
-    "type": "Tire Style",
-    "name": "Classic Sport"
-  },
-  {
-    "id": 533,
-    "type": "Tire Style",
-    "name": "Classic Thick"
   },
   {
     "id": 535,
@@ -2953,16 +1288,6 @@
     "type": "Tire Style",
     "name": "Glacier",
     "season": 24
-  },
-  {
-    "id": 537,
-    "type": "Tire Style",
-    "name": "Monster"
-  },
-  {
-    "id": 538,
-    "type": "Tire Style",
-    "name": "Offroad"
   },
   {
     "id": 539,
@@ -2990,86 +1315,6 @@
     "name": "Spiked",
     "season": 20,
     "level": 9
-  },
-  {
-    "id": 543,
-    "type": "Tire Style",
-    "name": "Trail Trek"
-  },
-  {
-    "id": 544,
-    "type": "Tire Style",
-    "name": "Treaded Sport"
-  },
-  {
-    "id": 545,
-    "type": "Tire Style",
-    "name": "Treaded Thick"
-  },
-  {
-    "id": 546,
-    "type": "Tire Style",
-    "name": "Treaded"
-  },
-  {
-    "id": 547,
-    "type": "HyperChrome",
-    "name": "HyperBlue Level 1"
-  },
-  {
-    "id": 551,
-    "type": "HyperChrome",
-    "name": "HyperBlue Level 5"
-  },
-  {
-    "id": 552,
-    "type": "HyperChrome",
-    "name": "HyperDiamond Level 1"
-  },
-  {
-    "id": 556,
-    "type": "HyperChrome",
-    "name": "HyperDiamond Level 5"
-  },
-  {
-    "id": 560,
-    "type": "HyperChrome",
-    "name": "HyperGreen Level 4"
-  },
-  {
-    "id": 566,
-    "type": "HyperChrome",
-    "name": "HyperOrange Level 5"
-  },
-  {
-    "id": 570,
-    "type": "HyperChrome",
-    "name": "HyperPink Level 4"
-  },
-  {
-    "id": 572,
-    "type": "HyperChrome",
-    "name": "HyperPurple Level 1"
-  },
-  {
-    "id": 574,
-    "type": "HyperChrome",
-    "name": "HyperPurple Level 3"
-  },
-  {
-    "id": 576,
-    "type": "HyperChrome",
-    "name": "HyperPurple Level 5"
-  },
-  {
-    "id": 580,
-    "type": "HyperChrome",
-    "name": "HyperRed Level 4"
-  },
-  {
-    "id": 586,
-    "type": "HyperChrome",
-    "name": "HyperYellow Level 5"
   },
   {
     "id": 588,
@@ -3119,26 +1364,11 @@
     "season": 6
   },
   {
-    "id": 595,
-    "type": "Furniture",
-    "name": "Cosmetic Safe"
-  },
-  {
     "id": 596,
     "type": "Furniture",
     "name": "Cryo Chamber",
     "season": 13,
     "level": 7
-  },
-  {
-    "id": 597,
-    "type": "Furniture",
-    "name": "CyberBlue Couch"
-  },
-  {
-    "id": 598,
-    "type": "Furniture",
-    "name": "Dino Exhibit"
   },
   {
     "id": 599,
@@ -3174,11 +1404,6 @@
     "name": "Giant OG Snowman",
     "season": 21,
     "level": 6
-  },
-  {
-    "id": 604,
-    "type": "Furniture",
-    "name": "Grand Piano"
   },
   {
     "id": 605,
@@ -3228,11 +1453,6 @@
     "name": "Missile Bed",
     "season": 12,
     "level": 5
-  },
-  {
-    "id": 612,
-    "type": "Furniture",
-    "name": "Missile Sofa"
   },
   {
     "id": 613,
@@ -3353,16 +1573,6 @@
     "level": 8
   },
   {
-    "id": 630,
-    "type": "Furniture",
-    "name": "TNT Barrel"
-  },
-  {
-    "id": 631,
-    "type": "Furniture",
-    "name": "Toy Plane"
-  },
-  {
     "id": 632,
     "type": "Furniture",
     "name": "Track Car Bed",
@@ -3404,20 +1614,10 @@
     "level": 4
   },
   {
-    "id": 639,
-    "type": "Body Color",
-    "name": "Fall Chrome"
-  },
-  {
     "id": 642,
     "type": "Horn",
     "name": "Cucaracha",
     "season": 9
-  },
-  {
-    "id": 643,
-    "type": "Horn",
-    "name": "Ahooga"
   },
   {
     "id": 644,
@@ -3426,90 +1626,10 @@
     "season": 14
   },
   {
-    "id": 645,
-    "type": "Horn",
-    "name": "Airhorn"
-  },
-  {
-    "id": 646,
-    "type": "Horn",
-    "name": "Bicycle"
-  },
-  {
-    "id": 647,
-    "type": "Horn",
-    "name": "City"
-  },
-  {
-    "id": 648,
-    "type": "Horn",
-    "name": "Clown"
-  },
-  {
-    "id": 649,
-    "type": "Horn",
-    "name": "Countdown"
-  },
-  {
-    "id": 650,
-    "type": "Horn",
-    "name": "Cruise Liner"
-  },
-  {
-    "id": 651,
-    "type": "Horn",
-    "name": "Drop Weapons"
-  },
-  {
-    "id": 652,
-    "type": "Horn",
-    "name": "Fire Brigade"
-  },
-  {
-    "id": 654,
-    "type": "Horn",
-    "name": "Meep Meep"
-  },
-  {
-    "id": 656,
-    "type": "Horn",
-    "name": "Quack"
-  },
-  {
-    "id": 657,
-    "type": "Horn",
-    "name": "Realistic"
-  },
-  {
-    "id": 658,
-    "type": "Horn",
-    "name": "Rumble Siren"
-  },
-  {
-    "id": 659,
-    "type": "Horn",
-    "name": "Sendoff"
-  },
-  {
-    "id": 660,
-    "type": "Horn",
-    "name": "Steamer"
-  },
-  {
-    "id": 661,
-    "type": "Horn",
-    "name": "Train"
-  },
-  {
     "id": 662,
     "type": "Horn",
     "name": "Winner",
     "season": 12
-  },
-  {
-    "id": 663,
-    "type": "Spoiler",
-    "name": "3 Lives"
   },
   {
     "id": 664,
@@ -3519,11 +1639,6 @@
     "level": 4
   },
   {
-    "id": 665,
-    "type": "Furniture",
-    "name": "8-Bit Rug"
-  },
-  {
     "id": 666,
     "type": "Furniture",
     "name": "Arcade Portal",
@@ -3531,46 +1646,11 @@
     "level": 3
   },
   {
-    "id": 667,
-    "type": "Furniture",
-    "name": "Badimo Bros Wall Light"
-  },
-  {
     "id": 668,
     "type": "Texture",
     "name": "Blue Pixel Racer",
     "season": 25,
     "level": 8
-  },
-  {
-    "id": 669,
-    "type": "Rim",
-    "name": "DPad"
-  },
-  {
-    "id": 670,
-    "type": "Furniture",
-    "name": "Gamer TV Set"
-  },
-  {
-    "id": 671,
-    "type": "Rim",
-    "name": "Grande Punto"
-  },
-  {
-    "id": 672,
-    "type": "Tire Sticker",
-    "name": "Insert Coin"
-  },
-  {
-    "id": 673,
-    "type": "Tire Style",
-    "name": "R-Tracer"
-  },
-  {
-    "id": 674,
-    "type": "Tire Sticker",
-    "name": "HungrySnake"
   },
   {
     "id": 675,
@@ -3585,11 +1665,6 @@
     "name": "Pixeltary",
     "season": 25,
     "level": 9
-  },
-  {
-    "id": 677,
-    "type": "Furniture",
-    "name": "Pixel Wardrobe"
   },
   {
     "id": 678,
@@ -3613,11 +1688,6 @@
     "level": 7
   },
   {
-    "id": 681,
-    "type": "Furniture",
-    "name": "Voxel Sofa"
-  },
-  {
     "id": 682,
     "type": "Spoiler",
     "name": "Voxel",
@@ -3631,31 +1701,11 @@
     "season": 25
   },
   {
-    "id": 684,
-    "type": "Weapon Skin",
-    "name": "Aquatic"
-  },
-  {
-    "id": 685,
-    "type": "Weapon Skin",
-    "name": "Aurora"
-  },
-  {
     "id": 686,
     "type": "Weapon Skin",
     "name": "Black Ice",
     "season": 7,
     "level": 2
-  },
-  {
-    "id": 687,
-    "type": "Weapon Skin",
-    "name": "Camo"
-  },
-  {
-    "id": 688,
-    "type": "Weapon Skin",
-    "name": "Candy Cane"
   },
   {
     "id": 689,
@@ -3665,21 +1715,11 @@
     "level": 3
   },
   {
-    "id": 690,
-    "type": "Weapon Skin",
-    "name": "Diamond"
-  },
-  {
     "id": 691,
     "type": "Weapon Skin",
     "name": "Digital Confetti",
     "season": 3,
     "level": 3
-  },
-  {
-    "id": 692,
-    "type": "Weapon Skin",
-    "name": "Donut"
   },
   {
     "id": 693,
@@ -3717,31 +1757,6 @@
     "level": 6
   },
   {
-    "id": 698,
-    "type": "Weapon Skin",
-    "name": "Manga"
-  },
-  {
-    "id": 699,
-    "type": "Weapon Skin",
-    "name": "Money"
-  },
-  {
-    "id": 700,
-    "type": "Weapon Skin",
-    "name": "Camo Radar"
-  },
-  {
-    "id": 701,
-    "type": "Weapon Skin",
-    "name": "Rainbow"
-  },
-  {
-    "id": 702,
-    "type": "Weapon Skin",
-    "name": "Scorch"
-  },
-  {
     "id": 703,
     "type": "Weapon Skin",
     "name": "Snowstorm",
@@ -3749,51 +1764,11 @@
     "level": 3
   },
   {
-    "id": 704,
-    "type": "Weapon Skin",
-    "name": "Tiger"
-  },
-  {
     "id": 705,
     "type": "Weapon Skin",
     "name": "White Marble",
     "season": 10,
     "level": 5
-  },
-  {
-    "id": 706,
-    "type": "Weapon Skin",
-    "name": "Wooden Toy"
-  },
-  {
-    "id": 707,
-    "type": "Weapon Skin",
-    "name": "Zebra"
-  },
-  {
-    "id": 708,
-    "type": "Texture",
-    "name": "Nascar Hauler"
-  },
-  {
-    "id": 709,
-    "type": "Texture",
-    "name": "Swat Graffiti"
-  },
-  {
-    "id": 710,
-    "type": "Tire Sticker",
-    "name": "MCL36"
-  },
-  {
-    "id": 711,
-    "type": "Rim",
-    "name": "MCL36"
-  },
-  {
-    "id": 715,
-    "type": "Rim",
-    "name": "Blue Portal"
   },
   {
     "id": 716,
@@ -3810,21 +1785,11 @@
     "level": 2
   },
   {
-    "id": 718,
-    "type": "Rim",
-    "name": "Storm"
-  },
-  {
     "id": 719,
     "type": "Spoiler",
     "name": "Bamboo Shooters",
     "season": 26,
     "level": 9
-  },
-  {
-    "id": 720,
-    "type": "Spoiler",
-    "name": "Rally Lights"
   },
   {
     "id": 721,
@@ -3834,21 +1799,11 @@
     "level": 6
   },
   {
-    "id": 722,
-    "type": "Texture",
-    "name": "Prehistoric"
-  },
-  {
     "id": 723,
     "type": "Texture",
     "name": "Snake Skin",
     "season": 26,
     "level": 8
-  },
-  {
-    "id": 724,
-    "type": "Tire Sticker",
-    "name": "Jungle Mosaic"
   },
   {
     "id": 725,
@@ -3864,36 +1819,11 @@
     "season": 26
   },
   {
-    "id": 727,
-    "type": "Tire Style",
-    "name": "Safari"
-  },
-  {
     "id": 728,
     "type": "Vehicle",
     "name": "Cobra",
     "season": 26,
     "level": 10
-  },
-  {
-    "id": 729,
-    "type": "Vehicle",
-    "name": "Expeditioner"
-  },
-  {
-    "id": 730,
-    "type": "Body Color",
-    "name": "Mud"
-  },
-  {
-    "id": 731,
-    "type": "Furniture",
-    "name": "Tiki Stack Of Badimo"
-  },
-  {
-    "id": 732,
-    "type": "Drift",
-    "name": "Bananas"
   },
   {
     "id": 733,
@@ -3903,21 +1833,11 @@
     "level": 5
   },
   {
-    "id": 734,
-    "type": "Rim",
-    "name": "Bamboo"
-  },
-  {
     "id": 735,
     "type": "Furniture",
     "name": "Banana Chandelier",
     "season": 26,
     "level": 3
-  },
-  {
-    "id": 736,
-    "type": "Furniture",
-    "name": "Rally Signage"
   },
   {
     "id": 737,
@@ -3931,16 +1851,6 @@
     "type": "Spoiler",
     "name": "Kraken Attack",
     "season": 27
-  },
-  {
-    "id": 739,
-    "type": "Spoiler",
-    "name": "Parrot"
-  },
-  {
-    "id": 740,
-    "type": "Spoiler",
-    "name": "Dual Wingbeat"
   },
   {
     "id": 741,
@@ -3957,26 +1867,11 @@
     "level": 10
   },
   {
-    "id": 743,
-    "type": "Vehicle",
-    "name": "Orion M42"
-  },
-  {
     "id": 744,
     "type": "Furniture",
     "name": "Pirate Figurehead",
     "season": 27,
     "level": 5
-  },
-  {
-    "id": 745,
-    "type": "Furniture",
-    "name": "Sloopwreck Bed"
-  },
-  {
-    "id": 746,
-    "type": "Rim",
-    "name": "147"
   },
   {
     "id": 747,
@@ -3993,21 +1888,6 @@
     "level": 3
   },
   {
-    "id": 749,
-    "type": "Rim",
-    "name": "Settima"
-  },
-  {
-    "id": 750,
-    "type": "Rim",
-    "name": "Treasure Island"
-  },
-  {
-    "id": 751,
-    "type": "Tire Sticker",
-    "name": "laughability"
-  },
-  {
     "id": 752,
     "type": "Tire Sticker",
     "name": "Skull And Sails",
@@ -4020,31 +1900,6 @@
     "name": "Buccaneer",
     "season": 27,
     "level": 8
-  },
-  {
-    "id": 754,
-    "type": "Body Color",
-    "name": "Radiant White"
-  },
-  {
-    "id": 755,
-    "type": "Tire Style",
-    "name": "Magmatic Glow"
-  },
-  {
-    "id": 756,
-    "type": "Furniture",
-    "name": "Captain Chandelier"
-  },
-  {
-    "id": 757,
-    "type": "Furniture",
-    "name": "Captain Table"
-  },
-  {
-    "id": 758,
-    "type": "Rim",
-    "name": "Hatch Voids"
   },
   {
     "id": 759,
@@ -4103,51 +1958,6 @@
     "level": 10
   },
   {
-    "id": 767,
-    "type": "Spoiler",
-    "name": "VoltLine"
-  },
-  {
-    "id": 768,
-    "type": "Spoiler",
-    "name": "Bleeding Edge"
-  },
-  {
-    "id": 769,
-    "type": "Tire Sticker",
-    "name": "Jade Glow"
-  },
-  {
-    "id": 770,
-    "type": "Vehicle",
-    "name": "Wyndr"
-  },
-  {
-    "id": 771,
-    "type": "Furniture",
-    "name": "Hologram Donut Vendor"
-  },
-  {
-    "id": 772,
-    "type": "Furniture",
-    "name": "Wanted Hologram Signage"
-  },
-  {
-    "id": 773,
-    "type": "Rim",
-    "name": "ArmorPunk"
-  },
-  {
-    "id": 774,
-    "type": "Rim",
-    "name": "Hex-Bond"
-  },
-  {
-    "id": 775,
-    "type": "Rim",
-    "name": "Corp CR1"
-  },
-  {
     "id": 776,
     "type": "Texture",
     "name": "Vibrant Hologram",
@@ -4166,56 +1976,6 @@
     "name": "Neo-Static",
     "season": 28,
     "level": 7
-  },
-  {
-    "id": 780,
-    "type": "Furniture",
-    "name": "Doghouse Bulldog"
-  },
-  {
-    "id": 781,
-    "type": "Furniture",
-    "name": "Doghouse German"
-  },
-  {
-    "id": 782,
-    "type": "Furniture",
-    "name": "Bounty Board"
-  },
-  {
-    "id": 783,
-    "type": "Rim",
-    "name": "Animated Obby"
-  },
-  {
-    "id": 784,
-    "type": "Spoiler",
-    "name": "Classic Jet"
-  },
-  {
-    "id": 785,
-    "type": "Rim",
-    "name": "Delivery"
-  },
-  {
-    "id": 786,
-    "type": "Vehicle",
-    "name": "Pizza Delivery"
-  },
-  {
-    "id": 787,
-    "type": "Tire Sticker",
-    "name": "SFOTH"
-  },
-  {
-    "id": 788,
-    "type": "Rim",
-    "name": "Spawn"
-  },
-  {
-    "id": 789,
-    "type": "Tire Style",
-    "name": "Studded"
   },
   {
     "id": 790,
@@ -4280,26 +2040,11 @@
     "level": 4
   },
   {
-    "id": 799,
-    "type": "Drift",
-    "name": "SubSpace"
-  },
-  {
     "id": 800,
     "type": "Drift",
     "name": "Bloxxer",
     "season": 29,
     "level": 7
-  },
-  {
-    "id": 801,
-    "type": "Spoiler",
-    "name": "Brick Kar-1"
-  },
-  {
-    "id": 802,
-    "type": "Vehicle",
-    "name": "Bionic"
   },
   {
     "id": 803,
@@ -4351,41 +2096,6 @@
     "level": 5
   },
   {
-    "id": 811,
-    "type": "Tire Style",
-    "name": "Radial Red"
-  },
-  {
-    "id": 812,
-    "type": "Vehicle",
-    "name": "Polaire"
-  },
-  {
-    "id": 813,
-    "type": "Furniture",
-    "name": "Scary Organ"
-  },
-  {
-    "id": 814,
-    "type": "Furniture",
-    "name": "Scary Sofa"
-  },
-  {
-    "id": 815,
-    "type": "Furniture",
-    "name": "Rest In Peace"
-  },
-  {
-    "id": 816,
-    "type": "Furniture",
-    "name": "Scary Treasures"
-  },
-  {
-    "id": 817,
-    "type": "Furniture",
-    "name": "Trapped Spikes"
-  },
-  {
     "id": 819,
     "type": "Tire Sticker",
     "name": "Thing",
@@ -4398,420 +2108,5 @@
     "name": "Nemesis",
     "season": 30,
     "level": 9
-  },
-  {
-    "id": 821,
-    "type": "Furniture",
-    "name": "Pool Table"
-  },
-  {
-    "id": 822,
-    "type": "Furniture",
-    "name": "ClassicTVWall"
-  },
-  {
-    "id": 823,
-    "type": "Furniture",
-    "name": "Marble Coffee Table"
-  },
-  {
-    "id": 824,
-    "type": "Furniture",
-    "name": "ConspiracyBoard"
-  },
-  {
-    "id": 825,
-    "type": "Furniture",
-    "name": "OakArmChair"
-  },
-  {
-    "id": 826,
-    "type": "Furniture",
-    "name": "Gun Rack"
-  },
-  {
-    "id": 827,
-    "type": "Furniture",
-    "name": "Marble Dining Table"
-  },
-  {
-    "id": 828,
-    "type": "Furniture",
-    "name": "Police Desk"
-  },
-  {
-    "id": 829,
-    "type": "Furniture",
-    "name": "Shoebox"
-  },
-  {
-    "id": 830,
-    "type": "Furniture",
-    "name": "White Ceiling Fan"
-  },
-  {
-    "id": 831,
-    "type": "Furniture",
-    "name": "Double Sofa"
-  },
-  {
-    "id": 832,
-    "type": "Furniture",
-    "name": "Small Curtain"
-  },
-  {
-    "id": 833,
-    "type": "Furniture",
-    "name": "Modern Desk"
-  },
-  {
-    "id": 834,
-    "type": "Furniture",
-    "name": "Tulip Chair"
-  },
-  {
-    "id": 835,
-    "type": "Furniture",
-    "name": "LavaLamp"
-  },
-  {
-    "id": 836,
-    "type": "Furniture",
-    "name": "OakArmSofa"
-  },
-  {
-    "id": 837,
-    "type": "Furniture",
-    "name": "ClassicDoubleTwin"
-  },
-  {
-    "id": 838,
-    "type": "Furniture",
-    "name": "Volt Shelf"
-  },
-  {
-    "id": 839,
-    "type": "Furniture",
-    "name": "Step Stool"
-  },
-  {
-    "id": 840,
-    "type": "Furniture",
-    "name": "Ye Old Chair"
-  },
-  {
-    "id": 841,
-    "type": "Furniture",
-    "name": "Energy Vending Machine"
-  },
-  {
-    "id": 842,
-    "type": "Furniture",
-    "name": "Wood Media Table"
-  },
-  {
-    "id": 843,
-    "type": "Furniture",
-    "name": "Asimos Desk"
-  },
-  {
-    "id": 844,
-    "type": "Furniture",
-    "name": "Black Ceiling Fan"
-  },
-  {
-    "id": 845,
-    "type": "Furniture",
-    "name": "BombChandelier"
-  },
-  {
-    "id": 846,
-    "type": "Furniture",
-    "name": "Cactus Buddy"
-  },
-  {
-    "id": 847,
-    "type": "Furniture",
-    "name": "Can Light"
-  },
-  {
-    "id": 848,
-    "type": "Furniture",
-    "name": "CatPlush"
-  },
-  {
-    "id": 849,
-    "type": "Furniture",
-    "name": "ClassicIceTable"
-  },
-  {
-    "id": 850,
-    "type": "Furniture",
-    "name": "ClassicModernCouch"
-  },
-  {
-    "id": 851,
-    "type": "Furniture",
-    "name": "ClassicRoundDanceFloor"
-  },
-  {
-    "id": 852,
-    "type": "Furniture",
-    "name": "ClassicSmallDanceFloor"
-  },
-  {
-    "id": 853,
-    "type": "Furniture",
-    "name": "Confetti Cannon"
-  },
-  {
-    "id": 854,
-    "type": "Furniture",
-    "name": "CyberTubes"
-  },
-  {
-    "id": 855,
-    "type": "Furniture",
-    "name": "Dance Floor"
-  },
-  {
-    "id": 856,
-    "type": "Furniture",
-    "name": "DeepSeaAquarium"
-  },
-  {
-    "id": 857,
-    "type": "Furniture",
-    "name": "DJBooth"
-  },
-  {
-    "id": 858,
-    "type": "Furniture",
-    "name": "Donut Vending Machine"
-  },
-  {
-    "id": 859,
-    "type": "Furniture",
-    "name": "DriftwoodShelves"
-  },
-  {
-    "id": 860,
-    "type": "Furniture",
-    "name": "Drumset"
-  },
-  {
-    "id": 861,
-    "type": "Furniture",
-    "name": "Erics Starship"
-  },
-  {
-    "id": 862,
-    "type": "Furniture",
-    "name": "FancyFireplace"
-  },
-  {
-    "id": 863,
-    "type": "Furniture",
-    "name": "FancyWallLamp"
-  },
-  {
-    "id": 864,
-    "type": "Furniture",
-    "name": "Flatscreen"
-  },
-  {
-    "id": 865,
-    "type": "Furniture",
-    "name": "Floor Globe Blue"
-  },
-  {
-    "id": 866,
-    "type": "Furniture",
-    "name": "Heli Night"
-  },
-  {
-    "id": 867,
-    "type": "Furniture",
-    "name": "King Bed"
-  },
-  {
-    "id": 868,
-    "type": "Furniture",
-    "name": "Large Curtain"
-  },
-  {
-    "id": 869,
-    "type": "Furniture",
-    "name": "Large Houseplant"
-  },
-  {
-    "id": 870,
-    "type": "Furniture",
-    "name": "Modern Chair"
-  },
-  {
-    "id": 871,
-    "type": "Furniture",
-    "name": "Modern Globe Ceiling Light"
-  },
-  {
-    "id": 872,
-    "type": "Furniture",
-    "name": "ModernKingBed"
-  },
-  {
-    "id": 873,
-    "type": "Furniture",
-    "name": "Modern White Lamp"
-  },
-  {
-    "id": 874,
-    "type": "Furniture",
-    "name": "ModKitchenIsland"
-  },
-  {
-    "id": 875,
-    "type": "Furniture",
-    "name": "ModKitchen"
-  },
-  {
-    "id": 876,
-    "type": "Furniture",
-    "name": "Museum Chandelier"
-  },
-  {
-    "id": 877,
-    "type": "Furniture",
-    "name": "Museum Light"
-  },
-  {
-    "id": 878,
-    "type": "Furniture",
-    "name": "NightTrainArtwork"
-  },
-  {
-    "id": 879,
-    "type": "Furniture",
-    "name": "OakCoffeeTable"
-  },
-  {
-    "id": 880,
-    "type": "Furniture",
-    "name": "OrbitalChandelier"
-  },
-  {
-    "id": 881,
-    "type": "Furniture",
-    "name": "Outlet"
-  },
-  {
-    "id": 882,
-    "type": "Furniture",
-    "name": "Pixel Portrait"
-  },
-  {
-    "id": 883,
-    "type": "Furniture",
-    "name": "Recliner"
-  },
-  {
-    "id": 884,
-    "type": "Furniture",
-    "name": "RetroComputer"
-  },
-  {
-    "id": 885,
-    "type": "Furniture",
-    "name": "RGB Machine"
-  },
-  {
-    "id": 886,
-    "type": "Furniture",
-    "name": "SmallOrbitalChandelier"
-  },
-  {
-    "id": 887,
-    "type": "Furniture",
-    "name": "Small Wood Dining Table"
-  },
-  {
-    "id": 888,
-    "type": "Furniture",
-    "name": "SmokeDetector"
-  },
-  {
-    "id": 889,
-    "type": "Furniture",
-    "name": "Solo Sofa"
-  },
-  {
-    "id": 890,
-    "type": "Furniture",
-    "name": "Star Rug"
-  },
-  {
-    "id": 891,
-    "type": "Furniture",
-    "name": "SupersuitDisplay"
-  },
-  {
-    "id": 892,
-    "type": "Furniture",
-    "name": "Switch1"
-  },
-  {
-    "id": 893,
-    "type": "Furniture",
-    "name": "Switch2"
-  },
-  {
-    "id": 894,
-    "type": "Furniture",
-    "name": "Tall Houseplant"
-  },
-  {
-    "id": 895,
-    "type": "Furniture",
-    "name": "Turret"
-  },
-  {
-    "id": 896,
-    "type": "Furniture",
-    "name": "TwinSofa"
-  },
-  {
-    "id": 897,
-    "type": "Furniture",
-    "name": "Vent"
-  },
-  {
-    "id": 898,
-    "type": "Furniture",
-    "name": "Volt Media Table"
-  },
-  {
-    "id": 899,
-    "type": "Furniture",
-    "name": "Wood Coffee Table"
-  },
-  {
-    "id": 900,
-    "type": "Furniture",
-    "name": "Wood Dining Table"
-  },
-  {
-    "id": 901,
-    "type": "Furniture",
-    "name": "Yellow Lamp"
-  },
-  {
-    "id": 904,
-    "type": "Furniture",
-    "name": "Twin Bed"
-  },
-  {
-    "id": 905,
-    "type": "Rim",
-    "name": "Lapine"
   }
 ]
