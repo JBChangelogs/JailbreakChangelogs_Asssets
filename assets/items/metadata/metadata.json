@@ -665,26 +665,6 @@
     "name": "Brickset"
   },
   {
-    "id": 113,
-    "type": "Drift",
-    "name": "Brickset"
-  },
-  {
-    "id": 113,
-    "type": "Drift",
-    "name": "Brickset"
-  },
-  {
-    "id": 113,
-    "type": "Drift",
-    "name": "Brickset"
-  },
-  {
-    "id": 113,
-    "type": "Drift",
-    "name": "Brickset"
-  },
-  {
     "id": 114,
     "type": "Drift",
     "name": "Bubble Wand"
@@ -2853,91 +2833,6 @@
     "name": "Radiant Green"
   },
   {
-    "id": 512,
-    "type": "Body Color",
-    "name": "Radiant Green"
-  },
-  {
-    "id": 512,
-    "type": "Body Color",
-    "name": "Radiant Green"
-  },
-  {
-    "id": 512,
-    "type": "Body Color",
-    "name": "Radiant Green"
-  },
-  {
-    "id": 512,
-    "type": "Body Color",
-    "name": "Radiant Green"
-  },
-  {
-    "id": 512,
-    "type": "Body Color",
-    "name": "Radiant Green"
-  },
-  {
-    "id": 512,
-    "type": "Body Color",
-    "name": "Radiant Green"
-  },
-  {
-    "id": 512,
-    "type": "Body Color",
-    "name": "Radiant Green"
-  },
-  {
-    "id": 512,
-    "type": "Body Color",
-    "name": "Radiant Green"
-  },
-  {
-    "id": 512,
-    "type": "Body Color",
-    "name": "Radiant Green"
-  },
-  {
-    "id": 512,
-    "type": "Body Color",
-    "name": "Radiant Green"
-  },
-  {
-    "id": 512,
-    "type": "Body Color",
-    "name": "Radiant Green"
-  },
-  {
-    "id": 512,
-    "type": "Body Color",
-    "name": "Radiant Green"
-  },
-  {
-    "id": 512,
-    "type": "Body Color",
-    "name": "Radiant Green"
-  },
-  {
-    "id": 512,
-    "type": "Body Color",
-    "name": "Radiant Green"
-  },
-  {
-    "id": 512,
-    "type": "Body Color",
-    "name": "Radiant Green"
-  },
-  {
-    "id": 512,
-    "type": "Body Color",
-    "name": "Radiant Green"
-  },
-  {
-    "id": 512,
-    "type": "Body Color",
-    "name": "Radiant Green"
-  },
-  {
     "id": 513,
     "type": "Body Color",
     "name": "Radiant Ice"
@@ -3025,11 +2920,6 @@
     "name": "America",
     "season": 22,
     "level": 7
-  },
-  {
-    "id": 530,
-    "type": "Tire Style",
-    "name": "Brickset"
   },
   {
     "id": 530,
@@ -3182,11 +3072,6 @@
     "name": "HyperYellow Level 5"
   },
   {
-    "id": 586,
-    "type": "HyperChrome",
-    "name": "HyperYellow Level 5"
-  },
-  {
     "id": 588,
     "type": "Furniture",
     "name": "80s Cassette Table",
@@ -3256,11 +3141,6 @@
     "name": "Dino Exhibit"
   },
   {
-    "id": 598,
-    "type": "Furniture",
-    "name": "Dino Exhibit"
-  },
-  {
     "id": 599,
     "type": "Furniture",
     "name": "Fabulous Sign",
@@ -3294,11 +3174,6 @@
     "name": "Giant OG Snowman",
     "season": 21,
     "level": 6
-  },
-  {
-    "id": 604,
-    "type": "Furniture",
-    "name": "Grand Piano"
   },
   {
     "id": 604,
@@ -3449,12 +3324,6 @@
     "name": "Sci-Fi Kitchen",
     "season": 8,
     "level": 9
-  },
-  {
-    "id": 626,
-    "type": "Furniture",
-    "name": "Super Star Rug",
-    "level": 5
   },
   {
     "id": 626,
@@ -3655,21 +3524,11 @@
     "name": "8-Bit Rug"
   },
   {
-    "id": 665,
-    "type": "Furniture",
-    "name": "8-Bit Rug"
-  },
-  {
     "id": 666,
     "type": "Furniture",
     "name": "Arcade Portal",
     "season": 25,
     "level": 3
-  },
-  {
-    "id": 667,
-    "type": "Furniture",
-    "name": "Badimo Bros Wall Light"
   },
   {
     "id": 667,
@@ -3687,16 +3546,6 @@
     "id": 669,
     "type": "Rim",
     "name": "DPad"
-  },
-  {
-    "id": 670,
-    "type": "Furniture",
-    "name": "Gamer TV Set"
-  },
-  {
-    "id": 670,
-    "type": "Furniture",
-    "name": "Gamer TV Set"
   },
   {
     "id": 670,
@@ -3743,16 +3592,6 @@
     "name": "Pixel Wardrobe"
   },
   {
-    "id": 677,
-    "type": "Furniture",
-    "name": "Pixel Wardrobe"
-  },
-  {
-    "id": 677,
-    "type": "Furniture",
-    "name": "Pixel Wardrobe"
-  },
-  {
     "id": 678,
     "type": "Vehicle",
     "name": "Revox",
@@ -3772,16 +3611,6 @@
     "name": "Spixel",
     "season": 25,
     "level": 7
-  },
-  {
-    "id": 681,
-    "type": "Furniture",
-    "name": "Voxel Sofa"
-  },
-  {
-    "id": 681,
-    "type": "Furniture",
-    "name": "Voxel Sofa"
   },
   {
     "id": 681,
@@ -4542,39 +4371,9 @@
     "name": "Scary Sofa"
   },
   {
-    "id": 814,
-    "type": "Furniture",
-    "name": "Scary Sofa"
-  },
-  {
-    "id": 814,
-    "type": "Furniture",
-    "name": "Scary Sofa"
-  },
-  {
-    "id": 814,
-    "type": "Furniture",
-    "name": "Scary Sofa"
-  },
-  {
     "id": 815,
     "type": "Furniture",
     "name": "Rest In Peace"
-  },
-  {
-    "id": 816,
-    "type": "Furniture",
-    "name": "Scary Treasures"
-  },
-  {
-    "id": 816,
-    "type": "Furniture",
-    "name": "Scary Treasures"
-  },
-  {
-    "id": 816,
-    "type": "Furniture",
-    "name": "Scary Treasures"
   },
   {
     "id": 816,
@@ -4616,16 +4415,6 @@
     "name": "Marble Coffee Table"
   },
   {
-    "id": 823,
-    "type": "Furniture",
-    "name": "Marble Coffee Table"
-  },
-  {
-    "id": 824,
-    "type": "Furniture",
-    "name": "ConspiracyBoard"
-  },
-  {
     "id": 824,
     "type": "Furniture",
     "name": "ConspiracyBoard"
@@ -4634,41 +4423,6 @@
     "id": 825,
     "type": "Furniture",
     "name": "OakArmChair"
-  },
-  {
-    "id": 825,
-    "type": "Furniture",
-    "name": "OakArmChair"
-  },
-  {
-    "id": 825,
-    "type": "Furniture",
-    "name": "OakArmChair"
-  },
-  {
-    "id": 825,
-    "type": "Furniture",
-    "name": "OakArmChair"
-  },
-  {
-    "id": 825,
-    "type": "Furniture",
-    "name": "OakArmChair"
-  },
-  {
-    "id": 825,
-    "type": "Furniture",
-    "name": "OakArmChair"
-  },
-  {
-    "id": 826,
-    "type": "Furniture",
-    "name": "Gun Rack"
-  },
-  {
-    "id": 826,
-    "type": "Furniture",
-    "name": "Gun Rack"
   },
   {
     "id": 826,
@@ -4691,56 +4445,6 @@
     "name": "Shoebox"
   },
   {
-    "id": 829,
-    "type": "Furniture",
-    "name": "Shoebox"
-  },
-  {
-    "id": 829,
-    "type": "Furniture",
-    "name": "Shoebox"
-  },
-  {
-    "id": 829,
-    "type": "Furniture",
-    "name": "Shoebox"
-  },
-  {
-    "id": 829,
-    "type": "Furniture",
-    "name": "Shoebox"
-  },
-  {
-    "id": 829,
-    "type": "Furniture",
-    "name": "Shoebox"
-  },
-  {
-    "id": 829,
-    "type": "Furniture",
-    "name": "Shoebox"
-  },
-  {
-    "id": 829,
-    "type": "Furniture",
-    "name": "Shoebox"
-  },
-  {
-    "id": 829,
-    "type": "Furniture",
-    "name": "Shoebox"
-  },
-  {
-    "id": 829,
-    "type": "Furniture",
-    "name": "Shoebox"
-  },
-  {
-    "id": 830,
-    "type": "Furniture",
-    "name": "White Ceiling Fan"
-  },
-  {
     "id": 830,
     "type": "Furniture",
     "name": "White Ceiling Fan"
@@ -4749,51 +4453,6 @@
     "id": 831,
     "type": "Furniture",
     "name": "Double Sofa"
-  },
-  {
-    "id": 831,
-    "type": "Furniture",
-    "name": "Double Sofa"
-  },
-  {
-    "id": 831,
-    "type": "Furniture",
-    "name": "Double Sofa"
-  },
-  {
-    "id": 832,
-    "type": "Furniture",
-    "name": "Small Curtain"
-  },
-  {
-    "id": 832,
-    "type": "Furniture",
-    "name": "Small Curtain"
-  },
-  {
-    "id": 832,
-    "type": "Furniture",
-    "name": "Small Curtain"
-  },
-  {
-    "id": 832,
-    "type": "Furniture",
-    "name": "Small Curtain"
-  },
-  {
-    "id": 832,
-    "type": "Furniture",
-    "name": "Small Curtain"
-  },
-  {
-    "id": 832,
-    "type": "Furniture",
-    "name": "Small Curtain"
-  },
-  {
-    "id": 832,
-    "type": "Furniture",
-    "name": "Small Curtain"
   },
   {
     "id": 832,
@@ -4806,56 +4465,6 @@
     "name": "Modern Desk"
   },
   {
-    "id": 833,
-    "type": "Furniture",
-    "name": "Modern Desk"
-  },
-  {
-    "id": 834,
-    "type": "Furniture",
-    "name": "Tulip Chair"
-  },
-  {
-    "id": 834,
-    "type": "Furniture",
-    "name": "Tulip Chair"
-  },
-  {
-    "id": 834,
-    "type": "Furniture",
-    "name": "Tulip Chair"
-  },
-  {
-    "id": 834,
-    "type": "Furniture",
-    "name": "Tulip Chair"
-  },
-  {
-    "id": 834,
-    "type": "Furniture",
-    "name": "Tulip Chair"
-  },
-  {
-    "id": 834,
-    "type": "Furniture",
-    "name": "Tulip Chair"
-  },
-  {
-    "id": 834,
-    "type": "Furniture",
-    "name": "Tulip Chair"
-  },
-  {
-    "id": 834,
-    "type": "Furniture",
-    "name": "Tulip Chair"
-  },
-  {
-    "id": 834,
-    "type": "Furniture",
-    "name": "Tulip Chair"
-  },
-  {
     "id": 834,
     "type": "Furniture",
     "name": "Tulip Chair"
@@ -4864,66 +4473,6 @@
     "id": 835,
     "type": "Furniture",
     "name": "LavaLamp"
-  },
-  {
-    "id": 835,
-    "type": "Furniture",
-    "name": "LavaLamp"
-  },
-  {
-    "id": 835,
-    "type": "Furniture",
-    "name": "LavaLamp"
-  },
-  {
-    "id": 835,
-    "type": "Furniture",
-    "name": "LavaLamp"
-  },
-  {
-    "id": 835,
-    "type": "Furniture",
-    "name": "LavaLamp"
-  },
-  {
-    "id": 835,
-    "type": "Furniture",
-    "name": "LavaLamp"
-  },
-  {
-    "id": 835,
-    "type": "Furniture",
-    "name": "LavaLamp"
-  },
-  {
-    "id": 835,
-    "type": "Furniture",
-    "name": "LavaLamp"
-  },
-  {
-    "id": 835,
-    "type": "Furniture",
-    "name": "LavaLamp"
-  },
-  {
-    "id": 835,
-    "type": "Furniture",
-    "name": "LavaLamp"
-  },
-  {
-    "id": 836,
-    "type": "Furniture",
-    "name": "OakArmSofa"
-  },
-  {
-    "id": 836,
-    "type": "Furniture",
-    "name": "OakArmSofa"
-  },
-  {
-    "id": 836,
-    "type": "Furniture",
-    "name": "OakArmSofa"
   },
   {
     "id": 836,
@@ -4936,31 +4485,6 @@
     "name": "ClassicDoubleTwin"
   },
   {
-    "id": 837,
-    "type": "Furniture",
-    "name": "ClassicDoubleTwin"
-  },
-  {
-    "id": 838,
-    "type": "Furniture",
-    "name": "Volt Shelf"
-  },
-  {
-    "id": 838,
-    "type": "Furniture",
-    "name": "Volt Shelf"
-  },
-  {
-    "id": 838,
-    "type": "Furniture",
-    "name": "Volt Shelf"
-  },
-  {
-    "id": 838,
-    "type": "Furniture",
-    "name": "Volt Shelf"
-  },
-  {
     "id": 838,
     "type": "Furniture",
     "name": "Volt Shelf"
@@ -4969,71 +4493,6 @@
     "id": 839,
     "type": "Furniture",
     "name": "Step Stool"
-  },
-  {
-    "id": 839,
-    "type": "Furniture",
-    "name": "Step Stool"
-  },
-  {
-    "id": 839,
-    "type": "Furniture",
-    "name": "Step Stool"
-  },
-  {
-    "id": 839,
-    "type": "Furniture",
-    "name": "Step Stool"
-  },
-  {
-    "id": 839,
-    "type": "Furniture",
-    "name": "Step Stool"
-  },
-  {
-    "id": 840,
-    "type": "Furniture",
-    "name": "Ye Old Chair"
-  },
-  {
-    "id": 840,
-    "type": "Furniture",
-    "name": "Ye Old Chair"
-  },
-  {
-    "id": 840,
-    "type": "Furniture",
-    "name": "Ye Old Chair"
-  },
-  {
-    "id": 840,
-    "type": "Furniture",
-    "name": "Ye Old Chair"
-  },
-  {
-    "id": 840,
-    "type": "Furniture",
-    "name": "Ye Old Chair"
-  },
-  {
-    "id": 840,
-    "type": "Furniture",
-    "name": "Ye Old Chair"
-  },
-  {
-    "id": 840,
-    "type": "Furniture",
-    "name": "Ye Old Chair"
-  },
-  {
-    "id": 840,
-    "type": "Furniture",
-    "name": "Ye Old Chair"
-  },
-  {
-    "id": 840,
-    "type": "Furniture",
-    "name": "Ye Old Chair"
   },
   {
     "id": 840,
@@ -5044,36 +4503,6 @@
     "id": 841,
     "type": "Furniture",
     "name": "Energy Vending Machine"
-  },
-  {
-    "id": 841,
-    "type": "Furniture",
-    "name": "Energy Vending Machine"
-  },
-  {
-    "id": 841,
-    "type": "Furniture",
-    "name": "Energy Vending Machine"
-  },
-  {
-    "id": 842,
-    "type": "Furniture",
-    "name": "Wood Media Table"
-  },
-  {
-    "id": 842,
-    "type": "Furniture",
-    "name": "Wood Media Table"
-  },
-  {
-    "id": 842,
-    "type": "Furniture",
-    "name": "Wood Media Table"
-  },
-  {
-    "id": 842,
-    "type": "Furniture",
-    "name": "Wood Media Table"
   },
   {
     "id": 842,
@@ -5086,34 +4515,9 @@
     "name": "Asimos Desk"
   },
   {
-    "id": 843,
-    "type": "Furniture",
-    "name": "Asimos Desk"
-  },
-  {
     "id": 844,
     "type": "Furniture",
     "name": "Black Ceiling Fan"
-  },
-  {
-    "id": 844,
-    "type": "Furniture",
-    "name": "Black Ceiling Fan"
-  },
-  {
-    "id": 845,
-    "type": "Furniture",
-    "name": "BombChandelier"
-  },
-  {
-    "id": 845,
-    "type": "Furniture",
-    "name": "BombChandelier"
-  },
-  {
-    "id": 845,
-    "type": "Furniture",
-    "name": "BombChandelier"
   },
   {
     "id": 845,
@@ -5126,46 +4530,6 @@
     "name": "Cactus Buddy"
   },
   {
-    "id": 846,
-    "type": "Furniture",
-    "name": "Cactus Buddy"
-  },
-  {
-    "id": 847,
-    "type": "Furniture",
-    "name": "Can Light"
-  },
-  {
-    "id": 847,
-    "type": "Furniture",
-    "name": "Can Light"
-  },
-  {
-    "id": 847,
-    "type": "Furniture",
-    "name": "Can Light"
-  },
-  {
-    "id": 847,
-    "type": "Furniture",
-    "name": "Can Light"
-  },
-  {
-    "id": 847,
-    "type": "Furniture",
-    "name": "Can Light"
-  },
-  {
-    "id": 847,
-    "type": "Furniture",
-    "name": "Can Light"
-  },
-  {
-    "id": 847,
-    "type": "Furniture",
-    "name": "Can Light"
-  },
-  {
     "id": 847,
     "type": "Furniture",
     "name": "Can Light"
@@ -5174,36 +4538,6 @@
     "id": 848,
     "type": "Furniture",
     "name": "CatPlush"
-  },
-  {
-    "id": 848,
-    "type": "Furniture",
-    "name": "CatPlush"
-  },
-  {
-    "id": 848,
-    "type": "Furniture",
-    "name": "CatPlush"
-  },
-  {
-    "id": 848,
-    "type": "Furniture",
-    "name": "CatPlush"
-  },
-  {
-    "id": 848,
-    "type": "Furniture",
-    "name": "CatPlush"
-  },
-  {
-    "id": 849,
-    "type": "Furniture",
-    "name": "ClassicIceTable"
-  },
-  {
-    "id": 849,
-    "type": "Furniture",
-    "name": "ClassicIceTable"
   },
   {
     "id": 849,
@@ -5221,21 +4555,6 @@
     "name": "ClassicRoundDanceFloor"
   },
   {
-    "id": 851,
-    "type": "Furniture",
-    "name": "ClassicRoundDanceFloor"
-  },
-  {
-    "id": 851,
-    "type": "Furniture",
-    "name": "ClassicRoundDanceFloor"
-  },
-  {
-    "id": 852,
-    "type": "Furniture",
-    "name": "ClassicSmallDanceFloor"
-  },
-  {
     "id": 852,
     "type": "Furniture",
     "name": "ClassicSmallDanceFloor"
@@ -5249,21 +4568,6 @@
     "id": 854,
     "type": "Furniture",
     "name": "CyberTubes"
-  },
-  {
-    "id": 854,
-    "type": "Furniture",
-    "name": "CyberTubes"
-  },
-  {
-    "id": 854,
-    "type": "Furniture",
-    "name": "CyberTubes"
-  },
-  {
-    "id": 855,
-    "type": "Furniture",
-    "name": "Dance Floor"
   },
   {
     "id": 855,
@@ -5281,21 +4585,6 @@
     "name": "DJBooth"
   },
   {
-    "id": 857,
-    "type": "Furniture",
-    "name": "DJBooth"
-  },
-  {
-    "id": 858,
-    "type": "Furniture",
-    "name": "Donut Vending Machine"
-  },
-  {
-    "id": 858,
-    "type": "Furniture",
-    "name": "Donut Vending Machine"
-  },
-  {
     "id": 858,
     "type": "Furniture",
     "name": "Donut Vending Machine"
@@ -5304,21 +4593,6 @@
     "id": 859,
     "type": "Furniture",
     "name": "DriftwoodShelves"
-  },
-  {
-    "id": 859,
-    "type": "Furniture",
-    "name": "DriftwoodShelves"
-  },
-  {
-    "id": 859,
-    "type": "Furniture",
-    "name": "DriftwoodShelves"
-  },
-  {
-    "id": 860,
-    "type": "Furniture",
-    "name": "Drumset"
   },
   {
     "id": 860,
@@ -5336,61 +4610,6 @@
     "name": "FancyFireplace"
   },
   {
-    "id": 862,
-    "type": "Furniture",
-    "name": "FancyFireplace"
-  },
-  {
-    "id": 862,
-    "type": "Furniture",
-    "name": "FancyFireplace"
-  },
-  {
-    "id": 863,
-    "type": "Furniture",
-    "name": "FancyWallLamp"
-  },
-  {
-    "id": 863,
-    "type": "Furniture",
-    "name": "FancyWallLamp"
-  },
-  {
-    "id": 863,
-    "type": "Furniture",
-    "name": "FancyWallLamp"
-  },
-  {
-    "id": 863,
-    "type": "Furniture",
-    "name": "FancyWallLamp"
-  },
-  {
-    "id": 863,
-    "type": "Furniture",
-    "name": "FancyWallLamp"
-  },
-  {
-    "id": 863,
-    "type": "Furniture",
-    "name": "FancyWallLamp"
-  },
-  {
-    "id": 863,
-    "type": "Furniture",
-    "name": "FancyWallLamp"
-  },
-  {
-    "id": 863,
-    "type": "Furniture",
-    "name": "FancyWallLamp"
-  },
-  {
-    "id": 863,
-    "type": "Furniture",
-    "name": "FancyWallLamp"
-  },
-  {
     "id": 863,
     "type": "Furniture",
     "name": "FancyWallLamp"
@@ -5399,61 +4618,6 @@
     "id": 864,
     "type": "Furniture",
     "name": "Flatscreen"
-  },
-  {
-    "id": 864,
-    "type": "Furniture",
-    "name": "Flatscreen"
-  },
-  {
-    "id": 864,
-    "type": "Furniture",
-    "name": "Flatscreen"
-  },
-  {
-    "id": 865,
-    "type": "Furniture",
-    "name": "Floor Globe Blue"
-  },
-  {
-    "id": 865,
-    "type": "Furniture",
-    "name": "Floor Globe Blue"
-  },
-  {
-    "id": 865,
-    "type": "Furniture",
-    "name": "Floor Globe Blue"
-  },
-  {
-    "id": 865,
-    "type": "Furniture",
-    "name": "Floor Globe Blue"
-  },
-  {
-    "id": 865,
-    "type": "Furniture",
-    "name": "Floor Globe Blue"
-  },
-  {
-    "id": 865,
-    "type": "Furniture",
-    "name": "Floor Globe Blue"
-  },
-  {
-    "id": 865,
-    "type": "Furniture",
-    "name": "Floor Globe Blue"
-  },
-  {
-    "id": 865,
-    "type": "Furniture",
-    "name": "Floor Globe Blue"
-  },
-  {
-    "id": 865,
-    "type": "Furniture",
-    "name": "Floor Globe Blue"
   },
   {
     "id": 865,
@@ -5471,51 +4635,6 @@
     "name": "King Bed"
   },
   {
-    "id": 867,
-    "type": "Furniture",
-    "name": "King Bed"
-  },
-  {
-    "id": 867,
-    "type": "Furniture",
-    "name": "King Bed"
-  },
-  {
-    "id": 868,
-    "type": "Furniture",
-    "name": "Large Curtain"
-  },
-  {
-    "id": 868,
-    "type": "Furniture",
-    "name": "Large Curtain"
-  },
-  {
-    "id": 868,
-    "type": "Furniture",
-    "name": "Large Curtain"
-  },
-  {
-    "id": 868,
-    "type": "Furniture",
-    "name": "Large Curtain"
-  },
-  {
-    "id": 868,
-    "type": "Furniture",
-    "name": "Large Curtain"
-  },
-  {
-    "id": 868,
-    "type": "Furniture",
-    "name": "Large Curtain"
-  },
-  {
-    "id": 868,
-    "type": "Furniture",
-    "name": "Large Curtain"
-  },
-  {
     "id": 868,
     "type": "Furniture",
     "name": "Large Curtain"
@@ -5526,89 +4645,9 @@
     "name": "Large Houseplant"
   },
   {
-    "id": 869,
-    "type": "Furniture",
-    "name": "Large Houseplant"
-  },
-  {
-    "id": 869,
-    "type": "Furniture",
-    "name": "Large Houseplant"
-  },
-  {
-    "id": 869,
-    "type": "Furniture",
-    "name": "Large Houseplant"
-  },
-  {
-    "id": 869,
-    "type": "Furniture",
-    "name": "Large Houseplant"
-  },
-  {
     "id": 870,
     "type": "Furniture",
     "name": "Modern Chair"
-  },
-  {
-    "id": 870,
-    "type": "Furniture",
-    "name": "Modern Chair"
-  },
-  {
-    "id": 870,
-    "type": "Furniture",
-    "name": "Modern Chair"
-  },
-  {
-    "id": 870,
-    "type": "Furniture",
-    "name": "Modern Chair"
-  },
-  {
-    "id": 870,
-    "type": "Furniture",
-    "name": "Modern Chair"
-  },
-  {
-    "id": 870,
-    "type": "Furniture",
-    "name": "Modern Chair"
-  },
-  {
-    "id": 870,
-    "type": "Furniture",
-    "name": "Modern Chair"
-  },
-  {
-    "id": 871,
-    "type": "Furniture",
-    "name": "Modern Globe Ceiling Light"
-  },
-  {
-    "id": 871,
-    "type": "Furniture",
-    "name": "Modern Globe Ceiling Light"
-  },
-  {
-    "id": 871,
-    "type": "Furniture",
-    "name": "Modern Globe Ceiling Light"
-  },
-  {
-    "id": 871,
-    "type": "Furniture",
-    "name": "Modern Globe Ceiling Light"
-  },
-  {
-    "id": 871,
-    "type": "Furniture",
-    "name": "Modern Globe Ceiling Light"
-  },
-  {
-    "id": 871,
-    "type": "Furniture",
-    "name": "Modern Globe Ceiling Light"
   },
   {
     "id": 871,
@@ -5619,36 +4658,6 @@
     "id": 872,
     "type": "Furniture",
     "name": "ModernKingBed"
-  },
-  {
-    "id": 872,
-    "type": "Furniture",
-    "name": "ModernKingBed"
-  },
-  {
-    "id": 872,
-    "type": "Furniture",
-    "name": "ModernKingBed"
-  },
-  {
-    "id": 873,
-    "type": "Furniture",
-    "name": "Modern White Lamp"
-  },
-  {
-    "id": 873,
-    "type": "Furniture",
-    "name": "Modern White Lamp"
-  },
-  {
-    "id": 873,
-    "type": "Furniture",
-    "name": "Modern White Lamp"
-  },
-  {
-    "id": 873,
-    "type": "Furniture",
-    "name": "Modern White Lamp"
   },
   {
     "id": 873,
@@ -5671,41 +4680,6 @@
     "name": "Museum Chandelier"
   },
   {
-    "id": 876,
-    "type": "Furniture",
-    "name": "Museum Chandelier"
-  },
-  {
-    "id": 877,
-    "type": "Furniture",
-    "name": "Museum Light"
-  },
-  {
-    "id": 877,
-    "type": "Furniture",
-    "name": "Museum Light"
-  },
-  {
-    "id": 877,
-    "type": "Furniture",
-    "name": "Museum Light"
-  },
-  {
-    "id": 877,
-    "type": "Furniture",
-    "name": "Museum Light"
-  },
-  {
-    "id": 877,
-    "type": "Furniture",
-    "name": "Museum Light"
-  },
-  {
-    "id": 877,
-    "type": "Furniture",
-    "name": "Museum Light"
-  },
-  {
     "id": 877,
     "type": "Furniture",
     "name": "Museum Light"
@@ -5714,21 +4688,6 @@
     "id": 878,
     "type": "Furniture",
     "name": "NightTrainArtwork"
-  },
-  {
-    "id": 878,
-    "type": "Furniture",
-    "name": "NightTrainArtwork"
-  },
-  {
-    "id": 879,
-    "type": "Furniture",
-    "name": "OakCoffeeTable"
-  },
-  {
-    "id": 879,
-    "type": "Furniture",
-    "name": "OakCoffeeTable"
   },
   {
     "id": 879,
@@ -5741,46 +4700,6 @@
     "name": "OrbitalChandelier"
   },
   {
-    "id": 880,
-    "type": "Furniture",
-    "name": "OrbitalChandelier"
-  },
-  {
-    "id": 881,
-    "type": "Furniture",
-    "name": "Outlet"
-  },
-  {
-    "id": 881,
-    "type": "Furniture",
-    "name": "Outlet"
-  },
-  {
-    "id": 881,
-    "type": "Furniture",
-    "name": "Outlet"
-  },
-  {
-    "id": 881,
-    "type": "Furniture",
-    "name": "Outlet"
-  },
-  {
-    "id": 881,
-    "type": "Furniture",
-    "name": "Outlet"
-  },
-  {
-    "id": 881,
-    "type": "Furniture",
-    "name": "Outlet"
-  },
-  {
-    "id": 881,
-    "type": "Furniture",
-    "name": "Outlet"
-  },
-  {
     "id": 881,
     "type": "Furniture",
     "name": "Outlet"
@@ -5791,36 +4710,6 @@
     "name": "Pixel Portrait"
   },
   {
-    "id": 882,
-    "type": "Furniture",
-    "name": "Pixel Portrait"
-  },
-  {
-    "id": 882,
-    "type": "Furniture",
-    "name": "Pixel Portrait"
-  },
-  {
-    "id": 883,
-    "type": "Furniture",
-    "name": "Recliner"
-  },
-  {
-    "id": 883,
-    "type": "Furniture",
-    "name": "Recliner"
-  },
-  {
-    "id": 883,
-    "type": "Furniture",
-    "name": "Recliner"
-  },
-  {
-    "id": 883,
-    "type": "Furniture",
-    "name": "Recliner"
-  },
-  {
     "id": 883,
     "type": "Furniture",
     "name": "Recliner"
@@ -5829,26 +4718,6 @@
     "id": 884,
     "type": "Furniture",
     "name": "RetroComputer"
-  },
-  {
-    "id": 884,
-    "type": "Furniture",
-    "name": "RetroComputer"
-  },
-  {
-    "id": 884,
-    "type": "Furniture",
-    "name": "RetroComputer"
-  },
-  {
-    "id": 885,
-    "type": "Furniture",
-    "name": "RGB Machine"
-  },
-  {
-    "id": 885,
-    "type": "Furniture",
-    "name": "RGB Machine"
   },
   {
     "id": 885,
@@ -5861,31 +4730,6 @@
     "name": "SmallOrbitalChandelier"
   },
   {
-    "id": 886,
-    "type": "Furniture",
-    "name": "SmallOrbitalChandelier"
-  },
-  {
-    "id": 887,
-    "type": "Furniture",
-    "name": "Small Wood Dining Table"
-  },
-  {
-    "id": 887,
-    "type": "Furniture",
-    "name": "Small Wood Dining Table"
-  },
-  {
-    "id": 887,
-    "type": "Furniture",
-    "name": "Small Wood Dining Table"
-  },
-  {
-    "id": 887,
-    "type": "Furniture",
-    "name": "Small Wood Dining Table"
-  },
-  {
     "id": 887,
     "type": "Furniture",
     "name": "Small Wood Dining Table"
@@ -5896,94 +4740,9 @@
     "name": "SmokeDetector"
   },
   {
-    "id": 888,
-    "type": "Furniture",
-    "name": "SmokeDetector"
-  },
-  {
-    "id": 888,
-    "type": "Furniture",
-    "name": "SmokeDetector"
-  },
-  {
-    "id": 888,
-    "type": "Furniture",
-    "name": "SmokeDetector"
-  },
-  {
-    "id": 888,
-    "type": "Furniture",
-    "name": "SmokeDetector"
-  },
-  {
-    "id": 888,
-    "type": "Furniture",
-    "name": "SmokeDetector"
-  },
-  {
-    "id": 888,
-    "type": "Furniture",
-    "name": "SmokeDetector"
-  },
-  {
-    "id": 888,
-    "type": "Furniture",
-    "name": "SmokeDetector"
-  },
-  {
-    "id": 888,
-    "type": "Furniture",
-    "name": "SmokeDetector"
-  },
-  {
-    "id": 888,
-    "type": "Furniture",
-    "name": "SmokeDetector"
-  },
-  {
     "id": 889,
     "type": "Furniture",
     "name": "Solo Sofa"
-  },
-  {
-    "id": 889,
-    "type": "Furniture",
-    "name": "Solo Sofa"
-  },
-  {
-    "id": 889,
-    "type": "Furniture",
-    "name": "Solo Sofa"
-  },
-  {
-    "id": 889,
-    "type": "Furniture",
-    "name": "Solo Sofa"
-  },
-  {
-    "id": 889,
-    "type": "Furniture",
-    "name": "Solo Sofa"
-  },
-  {
-    "id": 890,
-    "type": "Furniture",
-    "name": "Star Rug"
-  },
-  {
-    "id": 890,
-    "type": "Furniture",
-    "name": "Star Rug"
-  },
-  {
-    "id": 890,
-    "type": "Furniture",
-    "name": "Star Rug"
-  },
-  {
-    "id": 890,
-    "type": "Furniture",
-    "name": "Star Rug"
   },
   {
     "id": 890,
@@ -6001,76 +4760,6 @@
     "name": "Switch1"
   },
   {
-    "id": 892,
-    "type": "Furniture",
-    "name": "Switch1"
-  },
-  {
-    "id": 892,
-    "type": "Furniture",
-    "name": "Switch1"
-  },
-  {
-    "id": 892,
-    "type": "Furniture",
-    "name": "Switch1"
-  },
-  {
-    "id": 892,
-    "type": "Furniture",
-    "name": "Switch1"
-  },
-  {
-    "id": 892,
-    "type": "Furniture",
-    "name": "Switch1"
-  },
-  {
-    "id": 892,
-    "type": "Furniture",
-    "name": "Switch1"
-  },
-  {
-    "id": 892,
-    "type": "Furniture",
-    "name": "Switch1"
-  },
-  {
-    "id": 893,
-    "type": "Furniture",
-    "name": "Switch2"
-  },
-  {
-    "id": 893,
-    "type": "Furniture",
-    "name": "Switch2"
-  },
-  {
-    "id": 893,
-    "type": "Furniture",
-    "name": "Switch2"
-  },
-  {
-    "id": 893,
-    "type": "Furniture",
-    "name": "Switch2"
-  },
-  {
-    "id": 893,
-    "type": "Furniture",
-    "name": "Switch2"
-  },
-  {
-    "id": 893,
-    "type": "Furniture",
-    "name": "Switch2"
-  },
-  {
-    "id": 893,
-    "type": "Furniture",
-    "name": "Switch2"
-  },
-  {
     "id": 893,
     "type": "Furniture",
     "name": "Switch2"
@@ -6079,36 +4768,6 @@
     "id": 894,
     "type": "Furniture",
     "name": "Tall Houseplant"
-  },
-  {
-    "id": 894,
-    "type": "Furniture",
-    "name": "Tall Houseplant"
-  },
-  {
-    "id": 894,
-    "type": "Furniture",
-    "name": "Tall Houseplant"
-  },
-  {
-    "id": 894,
-    "type": "Furniture",
-    "name": "Tall Houseplant"
-  },
-  {
-    "id": 894,
-    "type": "Furniture",
-    "name": "Tall Houseplant"
-  },
-  {
-    "id": 895,
-    "type": "Furniture",
-    "name": "Turret"
-  },
-  {
-    "id": 895,
-    "type": "Furniture",
-    "name": "Turret"
   },
   {
     "id": 895,
@@ -6121,46 +4780,6 @@
     "name": "TwinSofa"
   },
   {
-    "id": 896,
-    "type": "Furniture",
-    "name": "TwinSofa"
-  },
-  {
-    "id": 897,
-    "type": "Furniture",
-    "name": "Vent"
-  },
-  {
-    "id": 897,
-    "type": "Furniture",
-    "name": "Vent"
-  },
-  {
-    "id": 897,
-    "type": "Furniture",
-    "name": "Vent"
-  },
-  {
-    "id": 897,
-    "type": "Furniture",
-    "name": "Vent"
-  },
-  {
-    "id": 897,
-    "type": "Furniture",
-    "name": "Vent"
-  },
-  {
-    "id": 897,
-    "type": "Furniture",
-    "name": "Vent"
-  },
-  {
-    "id": 897,
-    "type": "Furniture",
-    "name": "Vent"
-  },
-  {
     "id": 897,
     "type": "Furniture",
     "name": "Vent"
@@ -6169,36 +4788,6 @@
     "id": 898,
     "type": "Furniture",
     "name": "Volt Media Table"
-  },
-  {
-    "id": 898,
-    "type": "Furniture",
-    "name": "Volt Media Table"
-  },
-  {
-    "id": 898,
-    "type": "Furniture",
-    "name": "Volt Media Table"
-  },
-  {
-    "id": 899,
-    "type": "Furniture",
-    "name": "Wood Coffee Table"
-  },
-  {
-    "id": 899,
-    "type": "Furniture",
-    "name": "Wood Coffee Table"
-  },
-  {
-    "id": 899,
-    "type": "Furniture",
-    "name": "Wood Coffee Table"
-  },
-  {
-    "id": 899,
-    "type": "Furniture",
-    "name": "Wood Coffee Table"
   },
   {
     "id": 899,
@@ -6211,49 +4800,9 @@
     "name": "Wood Dining Table"
   },
   {
-    "id": 900,
-    "type": "Furniture",
-    "name": "Wood Dining Table"
-  },
-  {
     "id": 901,
     "type": "Furniture",
     "name": "Yellow Lamp"
-  },
-  {
-    "id": 901,
-    "type": "Furniture",
-    "name": "Yellow Lamp"
-  },
-  {
-    "id": 901,
-    "type": "Furniture",
-    "name": "Yellow Lamp"
-  },
-  {
-    "id": 901,
-    "type": "Furniture",
-    "name": "Yellow Lamp"
-  },
-  {
-    "id": 901,
-    "type": "Furniture",
-    "name": "Yellow Lamp"
-  },
-  {
-    "id": 904,
-    "type": "Furniture",
-    "name": "Twin Bed"
-  },
-  {
-    "id": 904,
-    "type": "Furniture",
-    "name": "Twin Bed"
-  },
-  {
-    "id": 904,
-    "type": "Furniture",
-    "name": "Twin Bed"
   },
   {
     "id": 904,
