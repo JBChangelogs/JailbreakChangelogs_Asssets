@@ -2108,5 +2108,68 @@
     "name": "Nemesis",
     "season": 30,
     "level": 9
+  },
+   {
+    "id": 906,
+    "type": "Spoiler",
+    "name": "Stinger Scythe",
+    "season": 31,
+    "level": 9
+  },
+  {
+    "id": 908,
+    "type": "Spoiler",
+    "name": "SkyLine Glow",
+    "season": 31,
+    "level": 6
+  },
+  {
+    "id": 910,
+    "type": "Texture",
+    "name": "Digital RGB",
+    "season": 31,
+    "level": 8
+  },
+  {
+    "id": 911,
+    "type": "Tire Style",
+    "name": "VoltLine",
+    "season": 30,
+    "level": 3
+  },
+  {
+    "id": 912,
+    "type": "Vehicle",
+    "name": "JBX-0031",
+    "season": 30,
+    "level": 10
+  },
+  {
+    "id": 913,
+    "type": "Tire Sticker",
+    "name": "FreeStyle",
+    "season": 30,
+    "level": 4
+  },
+  {
+    "id": 914,
+    "type": "Rim",
+    "name": "Theory",
+    "season": 30,
+    "level": 2
+  },
+  {
+    "id": 915,
+    "type": "Quicksilver",
+    "name": "Rim",
+    "season": 30,
+    "level": 5
+  },
+  {
+    "id": 916,
+    "type": "Drift",
+    "name": "Dark Matter",
+    "season": 30,
+    "level": 7
   }
 ]
